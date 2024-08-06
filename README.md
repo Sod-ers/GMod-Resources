@@ -1,3 +1,3 @@
-# Tier Lists 
+# Tier Lists:
 - ## Easy Surf
 - ## Hard Surf
