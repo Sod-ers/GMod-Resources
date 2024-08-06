@@ -1,3 +1,3 @@
 # BB Tier Lists:
-- ## [Easy Surf](https://nbviewer.org/github/Sod-ers/GMod-Resources/blob/main/Easy-Surf-Tier-List.pdf)
-- ## [Hard Surf](https://nbviewer.org/github/Sod-ers/GMod-Resources/blob/main/Hard-Surf-Tier-List.pdf)
+- ## [Easy Surf](https://sod-ers.github.io/GMod-Resources/Easy-Surf-Tier-List.pdf)
+- ## [Hard Surf](https://sod-ers.github.io/GMod-Resources/Hard-Surf-Tier-List.pdf)
