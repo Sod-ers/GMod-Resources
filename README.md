@@ -13,5 +13,5 @@
 - ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
 
 ## Credits:
-- ### Tier List: [Floof](https://bbservers.co.uk/forums/index.php?members/floofer.3337/), [Elysian](https://bbservers.co.uk/forums/index.php?members/elysian.3385/), [Boolamp](https://bbservers.co.uk/forums/index.php?members/boolamp.3415/), [Aloha](https://bbservers.co.uk/forums/index.php?members/lucretia.3405/), [Toast](https://bbservers.co.uk/forums/index.php?members/toast.3417/), The Dwarf Magician, [myself](https://bbservers.co.uk/forums/index.php?members/soders.3376/), & many more
+- ### Tier List: [Floof](https://bbservers.co.uk/forums/index.php?members/floofer.3337/), [Elysian](https://bbservers.co.uk/forums/index.php?members/elysian.3385/), [Boolamp](https://bbservers.co.uk/forums/index.php?members/boolamp.3415/), [Aloha](https://bbservers.co.uk/forums/index.php?members/lucretia.3405/), [Toast](https://bbservers.co.uk/forums/index.php?members/toast.3417/), The Dwarf Magician, [myself](https://bbservers.co.uk/forums/index.php?members/soders.3376/), & more
 - ### Dark Theme: INsanes CSS HUD V6 modified by me
