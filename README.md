@@ -5,5 +5,5 @@
 
 ## Misc:
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
-- ### [Dark Theme](https://github.com/Sod-ers/GMod-Resources/tree/main/Dark-Theme) - [(preview)](https://github.com/Sod-ers/GMod-Resources/Dark-Theme/dark-theme-preview.png)
+- ### [Dark Theme](https://github.com/Sod-ers/GMod-Resources/tree/main/Dark-Theme) - [(preview)](https://github.com/sod-ers/GMod-Resources/Dark-Theme/dark-theme-preview.png)
 - ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing)
