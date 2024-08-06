@@ -10,6 +10,6 @@
 - ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, CSS, HL2 & TF2
 - ### [GModPatchTool / GModCEFCodecFix](https://github.com/solsticegamestudios/GModCEFCodecFix) - Fixes Linux crashes
 - ### [My config](https://github.com/Sod-ers/GMod-Resources/blob/5737c87b86b78d2c5333c82d9f2fdd712618c502/CFG/BB-SURF.cfg)
-- ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link] - OUTDATED (12-19-2024)
+- ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
 
 ## Credits:
