@@ -9,6 +9,6 @@
 - ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing)
 - ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, CSS, HL2 & TF2
 - ### [GModPatchTool / GModCEFCodecFix](https://github.com/solsticegamestudios/GModCEFCodecFix) - Fixes Linux crashes
-- ### [My config](https://sod-ers.github.io/GMod-Resources/CFG/BB-SURF.cfg)
+- ### [My config](https://github.com/Sod-ers/GMod-Resources/blob/5737c87b86b78d2c5333c82d9f2fdd712618c502/CFG/BB-SURF.cfg)
 
 ## Credits:
