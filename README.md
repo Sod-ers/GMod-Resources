@@ -1,4 +1,4 @@
-## BB Tier Lists:
+## BB Tier Lists (pdf):
 - ### [Easy Surf](https://sod-ers.github.io/GMod-Resources/PDF/Easy-Surf-Tier-List.pdf)
 - ### [Hard Surf](https://sod-ers.github.io/GMod-Resources/PDF/Hard-Surf-Tier-List.pdf)
 - ### [Also available on Google Sheets](https://drive.google.com/file/d/1tmvFmxGDCZ9fppvFutYpdc-mJwU7Ul3_/view?usp=sharing)
