@@ -6,7 +6,7 @@
 ## Miscellaneous:
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
 - ### [Dark theme](https://github.com/Sod-ers/GMod-Resources/releases) - [(preview)](https://sod-ers.github.io/GMod-Resources/Dark-Theme/dark-theme-preview.png)
-- ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing) - place in ../GarrysMod/garrysmod/backgrounds/
+- ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing) - place in ../garrysmod/backgrounds/
 - ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, css-maps, & tf2-content
 - ### [My surf config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/BB-SURF.cfg)
 - ### [FPS optimization config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/betterfps-WINDOWS-ONLY.cfg) - Windows only
