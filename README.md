@@ -10,6 +10,8 @@
 - ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, css-maps, & tf2-content
 - ### [GModCEFCodecFix](https://github.com/solsticegamestudios/GModCEFCodecFix) - Fixes Linux crashes
 - ### [My config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/BB-SURF.cfg)
+- ### [FPS optimization config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/betterfps-WINDOWS-ONLY.cfg) - (Windows only)
+- ### [Steam launch options](https://github.com/Sod-ers/GMod-Resources/tree/main/Steam-Launch-Options)
 - ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
 
 ## Credits:
