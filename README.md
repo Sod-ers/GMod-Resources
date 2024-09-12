@@ -7,7 +7,7 @@
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
 - ### [Dark theme](https://github.com/Sod-ers/GMod-Resources/releases) - [(preview)](https://sod-ers.github.io/GMod-Resources/Dark-Theme/dark-theme-preview.png)
 - ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing)
-- ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, CSS, HL2, & TF2
+- ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, css-maps, & tf2-content
 - ### [GModCEFCodecFix](https://github.com/solsticegamestudios/GModCEFCodecFix) - Fixes Linux crashes
 - ### [My config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/BB-SURF.cfg)
 - ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
