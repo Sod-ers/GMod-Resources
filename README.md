@@ -2,6 +2,7 @@
 - ### [Easy Surf](https://sod-ers.github.io/GMod-Resources/PDF/Easy-Surf-Tier-List.pdf)
 - ### [Hard Surf](https://sod-ers.github.io/GMod-Resources/PDF/Hard-Surf-Tier-List.pdf)
 - ### [Available on Google Sheets](https://drive.google.com/file/d/1tmvFmxGDCZ9fppvFutYpdc-mJwU7Ul3_/view?usp=sharing)
+- ### [BB tier list maker](https://tiermaker.com/create/easy-surf-maps-17474064-3)
 
 ## Miscellaneous:
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
