@@ -1,1 +1,1 @@
--novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec
+-novid -windowed -noborder -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec
