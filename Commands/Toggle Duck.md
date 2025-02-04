@@ -12,6 +12,7 @@ Method 2: Pressing space while on a surface does NOT cause crouch to untoggle:
 ### Method 2:
 1. Navigate to this folder: `../GarrysMod/garrysmod/cfg/`
 2. Disable Read-only on the cfg folder:
+
 ![1](https://raw.githubusercontent.com/Sod-ers/GMod-Resources/refs/heads/main/JPG/disable-read-only.png)
 3. Create a file named `autoexec.cfg` if it does not exist.
 4. Add the following lines to `autoexec.cfg` & save.
