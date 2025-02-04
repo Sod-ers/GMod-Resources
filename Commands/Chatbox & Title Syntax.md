@@ -14,6 +14,24 @@
 
 *s is speed. Value can be set within a range of 0-5.*
 
+### Image Paths:
+| Image:                | Structure:                      |
+| --------------------- | ------------------------------- |
+| Steam profile picture | `<avatar STEAM_0:0:521294561/>` |
+| Image paths           | `<img path=icon16/heart.png/>`  |
+
+Image paths can be found using the following commands:
+``mat_texture_list_all 1``
+``mat_texture_list 1``
+There's also an option to show all textures at the top of this menu.
+
+- Some won't be listed if the engine hasn't rendered them yet.
+- Some are blacklisted from chatbox &/or titles.
+- A file extension is sometimes required.
+- Addons can change the appearance of textures.
+
+Below are a few notable image paths:
+
 ### Mossman Faces:
 | Structure:              |
 | ----------------------- |
@@ -24,33 +42,28 @@
 | `<mossman face=sad/>`   |
 | `<mossman face=smile/>` |
 | `<mossman face=sorry/>` |
-### Image Paths:
-| Image:                | Structure:                      |
-| --------------------- | ------------------------------- |
-| Steam profile picture | `<avatar STEAM_0:0:521294561/>` |
-| Image paths           | `<img path=icon16/heart.png/>`  |
-
-Image paths can be found using the following commands:
-`mat_texture_list_all 1`
-`mat_texture_list 1`
-There's also an option to show all textures at the top of this menu.
-
-- Some won't be listed if the engine hasn't rendered them yet.
-- Some are blacklisted from chatbox &/or titles.
-- A file extension is sometimes required.
-- Addons can change the appearance of textures.
-
-Below are a few notable image paths:
 ### Misc:
 | Path:                                           |
 | ----------------------------------------------- |
-| `<img path=bb/base/ballpit/ballpit.png/>`       |
 | `<img path=bb/chat/mvp.png/>`                   |
-| `<img path=bb/chat/plat.png/>`                  |
 | `<img path=bb/chat/bb_admin.png/>`              |
+| `<img path=bb/chat/plat.png/>`                  |
 | `<img path=icon16/heart.png/>`                  |
+| `<img path=icon16/star.png/>`                   |
+| `<img path=bb/base/ballpit/ballpit.png/>`       |
 | `<img path=icon32/muted.png/>`                  |
 | `<img path=icon32/unmuted.png/>`                |
+| `<img path=models/hostages/art_facemap/>`       |
+| `<img path=models/hostages/sandro_facemap/>`    |
+| `<img path=models/mossman/mossman_face/>`       |
+| `<img path=vgui/titlebaricon/>`                 |
+| `<img path=sprites/arrow/>`                     |
+| `<img path=icons/ministeamlogo.png/>`           |
+| `<img path=voice/icntlk_local/>`                |
+| `<img path=voice/icntlk_sv/>`                   |
+| `<img path=vgui/icon_con_high/>`                |
+| `<img path=vgui/icon_con_medium/>`              |
+| `<img path=vgui/icon_con_low/>`                 |
 | `<img path=icon16/award_star_gold_3.png/>`      |
 | `<img path=icon16/briefcase.png/>`              |
 | `<img path=icon16/cart.png/>`                   |
@@ -69,22 +82,12 @@ Below are a few notable image paths:
 | `<img path=icon16/group.png/>`                  |
 | `<img path=icon16/style_delete.png/>`           |
 | `<img path=icon16/group_delete.png/>`           |
-| `<img path=vgui/titlebaricon/>`                 |
-| `<img path=sprites/arrow/>`                     |
-| `<img path=voice/icntlk_local/>`                |
-| `<img path=voice/icntlk_sv/>`                   |
-| `<img path=debug/debuglightmap/>`               |
 | `<img path=vgui/notices/cleanup/>`              |
 | `<img path=vgui/notices/error/>`                |
 | `<img path=vgui/notices/hint/>`                 |
 | `<img path=vgui/notices/undo/>`                 |
 | `<img path=vgui/notices/generic/>`              |
 | `<img path=vgui/resource/icon_vac_new/>`        |
-| `<img path=debug/debugempty/>`                  |
-| `<img path=icons/ministeamlogo.png/>`           |
-| `<img path=vgui/icon_con_high/>`                |
-| `<img path=vgui/icon_con_medium/>`              |
-| `<img path=vgui/icon_con_low/>`                 |
 | `<img path=vgui/servers/icon_password/>`        |
 | `<img path=vgui/servers/icon_password_column/>` |
 | `<img path=vgui/servers/icon_replay/>`          |
@@ -93,9 +96,7 @@ Below are a few notable image paths:
 | `<img path=hud/killicons/default/>`             |
 | `<img path=hud/leaderboard_dead/>`              |
 | `<img path=tools/toolstrigger/>`                |
-| `<img path=models/hostages/art_facemap/>`       |
-| `<img path=models/hostages/sandro_facemap/>`    |
-| `<img path=models/mossman/mossman_face/>`       |
+| `<img path=debug/debugempty/>`                  |
 ### Trails:
 | Path:                               |
 | ----------------------------------- |
