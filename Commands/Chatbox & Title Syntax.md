@@ -101,16 +101,7 @@ Below are a few notable image paths:
 ### Trails:
 | Path:                               |
 | ----------------------------------- |
-| `<img path=trails/plasma/>`         |
-| `<img path=trails/manateetwo/>`     |
-| `<img path=trails/manateeone/>`     |
-| `<img path=trails/neon_gray/>`      |
 | `<img path=trails/5bars/>`          |
-| `<img path=trails/forward_arrows/>` |
-| `<img path=trails/owo/>`            |
-| `<img path=trails/uwu/>`            |
-| `<img path=trails/loveheart/>`      |
-| `<img path=trails/tube/>`           |
 | `<img path=trails/awesomefa/>`      |
 | `<img path=trails/bb/>`             |
 | `<img path=trails/carebearz/>`      |
@@ -120,23 +111,32 @@ Below are a few notable image paths:
 | `<img path=trails/doughnuts/>`      |
 | `<img path=trails/fingeru/>`        |
 | `<img path=trails/flamess/>`        |
+| `<img path=trails/forward_arrows/>` |
 | `<img path=trails/heavy/>`          |
 | `<img path=trails/irishflag/>`      |
+| `<img path=trails/jellyface/>`      |
 | `<img path=trails/kozumils/>`       |
 | `<img path=trails/lemons/>`         |
 | `<img path=trails/lol/>`            |
 | `<img path=trails/love/>`           |
+| `<img path=trails/loveheart/>`      |
+| `<img path=trails/manateeone/>`     |
+| `<img path=trails/manateetwo/>`     |
 | `<img path=trails/metroidd/>`       |
 | `<img path=trails/milkcarton/>`     |
 | `<img path=trails/mudkipzz/>`       |
+| `<img path=trails/neon_gray/>`      |
 | `<img path=trails/overlord/>`       |
+| `<img path=trails/owo/>`            |
 | `<img path=trails/pika/>`           |
+| `<img path=trails/plasma/>`         |
 | `<img path=trails/pokeball/>`       |
+| `<img path=trails/rainbowz/>`       |
 | `<img path=trails/skullsplat/>`     |
 | `<img path=trails/smoke/>`          |
 | `<img path=trails/trollfacee/>`     |
-| `<img path=trails/jellyface/>`      |
-| `<img path=trails/rainbowz/>`       |
+| `<img path=trails/tube/>`           |
+| `<img path=trails/uwu/>`            |
 ### Ranks
 | Path:             |
 | ----------------- |
