@@ -21,9 +21,11 @@
 | Image paths           | `<img path=icon16/heart.png/>`  |
 
 Image paths can be found using the following commands:
-``mat_texture_list_all 1``
-``mat_texture_list 1``
-There's also an option to show all textures at the top of this menu.
+```
+mat_texture_list_all 1
+mat_texture_list 1
+```
+There's also an option to show all textures at the top of the menu.
 
 - Some won't be listed if the engine hasn't rendered them yet.
 - Some are blacklisted from chatbox &/or titles.
@@ -31,7 +33,6 @@ There's also an option to show all textures at the top of this menu.
 - Addons can change the appearance of textures.
 
 Below are a few notable image paths:
-
 ### Mossman Faces:
 | Structure:              |
 | ----------------------- |
