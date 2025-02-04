@@ -12,7 +12,7 @@
 | Fade                   | `<fade s=1>example</fade>`           |
 | Fade condensed         | `<fade>example</fade>`               |
 
-*s is speed. Value can be set within a range of 0-5.
+*s is speed. Value can be set within a range of 0-5.*
 
 ### Mossman Faces:
 | Structure:              |
@@ -43,4 +43,11 @@ Below are a few notable image paths:
 ### Trails:
 | Path: |
 | ----- |
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
 |       |

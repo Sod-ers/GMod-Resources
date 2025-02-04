@@ -2,9 +2,9 @@
 ### Behavior:
 There's two ways to bind crouch to toggle, each demonstrating different behavior.
 
-Method 1: Pressing space while on a surface causes crouch to untoggle.
+Method 1: Jumping while on a surface causes crouch to untoggle.
 
-Method 2: Pressing space while on a surface does NOT cause crouch to untoggle:
+Method 2: Jumping while on a surface does NOT cause crouch to untoggle:
 ### Method 1:
 1. Open console using the `~` key or press `shift + escape`.
 2. Enter the command: `bind "ctrl" "toggle_duck"`

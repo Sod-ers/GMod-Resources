@@ -11,10 +11,10 @@ surf_print_chat_splits 1; surf_hide_votemap_timer 0; bb_chatbox_hidden 0; bb_sur
 ### Climb:
 **Hide:**
 ```
-bb_climb_toggle_speedo 0; bb_climb_toggle_virtkeyboard 0; bb_timetrial_toggletimes 0; crosshair 0; bb_chatbox_hidden 1; bb_chat_contextmsgs 0; cl_showfps 0
+bb_climb_toggle_speedo 0; bb_climb_toggle_virtkeyboard 0; bb_timetrial_toggletimes 0; crosshair 0; bb_chatbox_hidden 1; cl_showfps 0
 ```
 **Show:**
 ```
-bb_climb_toggle_speedo 1; bb_climb_toggle_virtkeyboard 1; bb_timetrial_toggletimes 1; bb_chatbox_hidden 0; crosshair 1; bb_chat_contextmsgs 1; cl_showfps 1
+bb_climb_toggle_speedo 1; bb_climb_toggle_virtkeyboard 1; bb_timetrial_toggletimes 1; bb_chatbox_hidden 0; crosshair 1; cl_showfps 1
 ```
 *A few elements cannot be hidden.*
