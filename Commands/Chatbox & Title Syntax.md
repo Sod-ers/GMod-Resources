@@ -29,6 +29,7 @@
 | --------------------- | ------------------------------- |
 | Steam profile picture | `<avatar STEAM_0:0:521294561/>` |
 | Image paths           | `<img path=icon16/heart.png/>`  |
+
 Image paths can be found using the following commands:
 `mat_texture_list_all 1`
 `mat_texture_list 1`
@@ -91,8 +92,9 @@ Below are a few notable image paths:
 | `<img path=vgui/servers/icon_secure_deny/>`     |
 | `<img path=hud/killicons/default/>`             |
 | `<img path=hud/leaderboard_dead/>`              |
-| `<img path=models/hostages/art_facemap/>`       |
 | `<img path=tools/toolstrigger/>`                |
+| `<img path=models/hostages/art_facemap/>`       |
+| `<img path=models/hostages/sandro_facemap/>`    |
 | `<img path=models/mossman/mossman_face/>`       |
 ### Trails:
 | Path:                               |
