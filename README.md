@@ -21,7 +21,7 @@
 - ### [Console Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Console%20Commands.md)
 - ### [BB Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/BB%20Commands.md)
 - ### [Stellar Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Stellar%20Commands.md)
-- ### [Change default chatbox location](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Change%20chatbox%20location.md)
+- ### [Change default chatbox location](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Change%20default%20chatbox%20location.md)
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
 - ### Dark Theme: INsanes CSS HUD V6 modified by me
