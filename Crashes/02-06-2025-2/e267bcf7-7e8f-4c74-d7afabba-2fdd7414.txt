@@ -1,0 +1,160 @@
+-Lua Stack Traces-
+==================
+  Client
+    Lua Interface = NULL
+
+  Server
+    Lua Interface = NULL
+
+  MenuSystem
+	*Not in Lua call OR Lua has panicked*
+
+-Console Buffer-
+================
+147(8.343328):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+146(5.276881):  Addons have changes - remounting
+145(5.157547):  
+144(5.157541):  BB CFGs loaded. 143(5.157505):  Host_WriteConfiguration: Wrote cfg/config.cfg
+142(5.152358):  "KP_MULTIPLY" is not bound
+141(5.152353):  "kp_enter" is not bound
+140(5.152348):  "kp_plus" is not bound
+139(5.152342):  "kp_minus" is not bound
+138(5.152337):  "kp_del" is not bound
+137(5.152332):  "kp_pgup" is not bound
+136(5.152327):  "kp_uparrow" is not bound
+135(5.152322):  "kp_home" is not bound
+134(5.152317):  "kp_rightarrow" is not bound
+133(5.152311):  "kp_5" is not bound
+132(5.152306):  "kp_leftarrow" is not bound
+131(5.152301):  "kp_pgdn" is not bound
+130(5.152296):  "kp_downarrow" is not bound
+129(5.152290):  "kp_end" is not bound
+128(5.152285):  "pgdn" is not bound
+127(5.152279):  "pgup" is not bound
+126(5.152274):  "pause" is not bound
+125(5.152269):  "scrolllock" is not bound
+124(5.152263):  "numlock" is not bound
+123(5.152258):  "apps" isn't a valid key
+122(5.152245):  "rwin" is not bound
+121(5.152240):  "lwin" is not bound
+120(5.152235):  "semicolon" is not bound
+119(5.152229):  "enter" is not bound
+118(5.152223):  "backspace" is not bound
+117(5.152218):  "capslock" is not bound
+116(5.152213):  "del" is not bound
+115(5.152208):  "ins" is not bound
+114(5.152203):  "end" is not bound
+113(5.152197):  "." is not bound
+112(5.152192):  "/" is not bound
+111(5.152187):  "\" is not bound
+110(5.152182):  "]" is not bound
+109(5.152177):  "[" is not bound
+108(5.152172):  "=" is not bound
+107(5.152167):  "-" is not bound
+106(5.152162):  "F9" is not bound
+105(5.152156):  "F8" is not bound
+104(5.152151):  "F7" is not bound
+103(5.152146):  "F6" is not bound
+102(5.152140):  "F5" is not bound
+101(5.152135):  "z" is not bound
+100(5.152130):  "x" is not bound
+99(5.152125):  "p" = ""
+98(5.152120):  "o" is not bound
+97(5.152115):  "n" is not bound
+96(5.152110):  "l" is not bound
+95(5.152104):  "j" is not bound
+94(5.152098):  "i" is not bound
+93(5.152093):  "b" is not bound
+92(5.152088):  "0" is not bound
+91(5.152083):  "9" is not bound
+90(5.152078):  "8" is not bound
+89(5.152073):  "7" is not bound
+88(5.152068):  "3" is not bound
+87(5.152063):  "2" is not bound
+86(5.152056):  "1" is not bound
+85(5.151974):  bind <key> [command] : attach a command to a key
+84(5.151926):  Unknown command "windows_speaker_config"
+83(5.151817):  "F3" = ""
+82(5.151809):  "F2" is not bound
+81(5.151586):  
+80(5.151580):  BB CFGs loaded. 79(5.151545):  Host_WriteConfiguration: Wrote cfg/config.cfg
+78(5.143604):  "KP_MULTIPLY" is not bound
+77(5.143599):  "kp_enter" is not bound
+76(5.143593):  "kp_plus" is not bound
+75(5.143588):  "kp_minus" is not bound
+74(5.143583):  "kp_del" is not bound
+73(5.143578):  "kp_pgup" is not bound
+72(5.143573):  "kp_uparrow" is not bound
+71(5.143568):  "kp_home" is not bound
+70(5.143562):  "kp_rightarrow" is not bound
+69(5.143557):  "kp_5" is not bound
+68(5.143552):  "kp_leftarrow" is not bound
+67(5.143547):  "kp_pgdn" is not bound
+66(5.143541):  "kp_downarrow" is not bound
+65(5.143536):  "kp_end" is not bound
+64(5.143531):  "pgdn" is not bound
+63(5.143525):  "pgup" is not bound
+62(5.143520):  "pause" is not bound
+61(5.143515):  "scrolllock" is not bound
+60(5.143509):  "numlock" is not bound
+59(5.143503):  "apps" isn't a valid key
+58(5.143490):  "rwin" is not bound
+57(5.143485):  "lwin" is not bound
+56(5.143480):  "semicolon" is not bound
+55(5.143474):  "enter" is not bound
+54(5.143469):  "backspace" is not bound
+53(5.143463):  "capslock" is not bound
+52(5.143458):  "del" is not bound
+51(5.143452):  "ins" is not bound
+50(5.143447):  "end" is not bound
+49(5.143441):  "." is not bound
+48(5.143436):  "/" is not bound
+47(5.143431):  "\" is not bound
+46(5.143426):  "]" is not bound
+45(5.143421):  "[" is not bound
+44(5.143415):  "=" is not bound
+43(5.143409):  "-" is not bound
+42(5.143404):  "F9" is not bound
+41(5.143399):  "F8" is not bound
+40(5.143393):  "F7" is not bound
+39(5.143388):  "F6" is not bound
+38(5.143382):  "F5" is not bound
+37(5.143377):  "z" is not bound
+36(5.143372):  "x" is not bound
+35(5.143367):  "p" = ""
+34(5.143361):  "o" is not bound
+33(5.143356):  "n" is not bound
+32(5.143351):  "l" is not bound
+31(5.143346):  "j" is not bound
+30(5.143341):  "i" is not bound
+29(5.143336):  "b" is not bound
+28(5.143331):  "0" is not bound
+27(5.143326):  "9" is not bound
+26(5.143321):  "8" is not bound
+25(5.143316):  "7" is not bound
+24(5.143311):  "3" is not bound
+23(5.143306):  "2" is not bound
+22(5.143299):  "1" is not bound
+21(5.143214):  bind <key> [command] : attach a command to a key
+20(5.143166):  Unknown command "windows_speaker_config"
+19(5.143056):  "F3" = ""
+18(5.143040):  "F2" is not bound
+17(5.141252):  SetLocale('en_US.UTF-8') failed. Using 'LC_CTYPE=en_US.UTF-8;LC_NUMERIC=C;LC_TIME=en_US.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=en_US.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=en_US.UTF-8;LC_NAME=en_US.UTF-8;LC_ADDRESS=en_US.UTF-8;LC_TELEPHONE=en_US.UTF-8;LC_MEASUREMENT=en_US.UTF-8;LC_IDENTIFICATION=en_US.UTF-8'.
+You may have limited glyph support.
+Please install 'en_US.UTF-8' locale.
+16(5.120362):  Advanced Joystick settings initialized
+15(5.120358):  JOY_AXIS_V:  unmapped
+14(5.120354):  JOY_AXIS_U:  mapped to Turn (absolute)
+13(5.120349):  JOY_AXIS_R:  mapped to Look (absolute)
+12(5.120345):  JOY_AXIS_Z:  unmapped
+11(5.120341):  JOY_AXIS_Y:  mapped to Forward (absolute)
+10(5.120336):  JOY_AXIS_X:  mapped to Side (absolute)
+9(5.120313):  Using joystick 'Xbox360 controller' configuration
+8(5.110716):  Did not detect any valid joysticks.
+7(4.664653):  Parent cvar in server.dll not allowed (props_break_max_pieces)
+6(4.662074):  x86-64: gmod_mcore_test=1
+5(3.797370):  Adding Filesystem Addon 'addons/hl2ep2-content'
+4(3.797197):  Adding Filesystem Addon 'addons/hl2ep1-content'
+3(3.797138):  Adding Filesystem Addon 'addons/css-maps'
+2(3.797062):  Adding Filesystem Addon 'addons/css-content'
+1(3.785273):  Attempting to load Chromium...
