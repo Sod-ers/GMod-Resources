@@ -40,6 +40,7 @@ Below are a few notable image paths:
 | `<mossman face=clear/>` |
 | `<mossman face=close/>` |
 | `<mossman face=glare/>` |
+| `<mossman face=happy/>` |
 | `<mossman face=sad/>`   |
 | `<mossman face=smile/>` |
 | `<mossman face=sorry/>` |
