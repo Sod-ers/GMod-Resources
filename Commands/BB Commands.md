@@ -14,6 +14,7 @@
 | bb_chatbox_overlay_escmenu 1              | Chatbox overlays the esc menu.                                                                    |
 | bb_chatbox_unlockposition 1/0             | Allows you to move the chatbox around the screen. Click & drag on the 'SAY:' text to move it.<br> |
 | bb_chatcolor 255 255 255                  | Changes chat text color.                                                                          |
+| bb_lotteryui                              | Access the lottery menu.                                                                          |
 | bb_menu_disable_help 1                    | Disable the F1 help menu.                                                                         |
 | bb_plat_trail_colour_b 0                  | Changes trail color.                                                                              |
 | bb_plat_trail_colour_g 255                | Changes trail color.                                                                              |
