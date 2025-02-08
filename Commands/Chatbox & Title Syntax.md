@@ -236,3 +236,24 @@ Below are a few notable image paths:
 | `<img path=spawnicons/models/player/zombie_fast.png/>`                                    |
 | `<img path=spawnicons/models/player/zombie_soldier.png/>`                                 |
 | `<img path=spawnicons/models/sazuma/nanami.png/>`                                         |
+
+### Lenny
+| Lenny:                          |
+| ------------------------------- |
+| ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°) |
+| ( ͠° ͟ʖ ͡°)                     |
+| ( ͡° ᴥ ͡°)                      |
+| ( ͡ʘ ͜ʖ ͡ʘ)                     |
+| ( ͡o ͜ʖ ͡o)                     |
+| ( ° ͜ʖ °)                       |
+| ( ͝° ͜ʖ͡°)                      |
+| [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅ )̲̅$̲̅]    |
+| (⌐■_■)                          |
+| (˵ ͡° ͜ʖ ͡°˵)                   |
+| (ᴗ ͜ʖ ᴗ)                        |
+| ( ͡^ ͜ʖ ͡^)                     |
+| ¯\_( ͡° ͜ʖ ͡°)_/¯               |
+### Other:
+| Other:                                                                                         |
+| ---------------------------------------------------------------------------------------------- |
+| HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA |
