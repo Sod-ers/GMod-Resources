@@ -21,6 +21,15 @@
 | sm_targetids 1         | Renders Target IDs when aiming at a player, it shows their personal best. |
 | sm_theme 5             | Simplistic theme.                                                         |
 | sm_timer_sound_theme 2 | Modern sound theme.                                                       |
+### Chatbox Convars:
+| Command:         | Description:        |
+| ---------------- | ------------------- |
+| scb_blur_theme 1 | Chatbox blur theme. |
+| scb_h 241        | Chatbox size.       |
+| scb_scale 9      | Chatbox size.       |
+| scb_w 674        | Chatbox size.       |
+| scb_x 637        | Chatbox position.   |
+| scb_y 286        | Chatbox position.   |
 ### All Surf Commands:
 | Command:          | Description:                                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
