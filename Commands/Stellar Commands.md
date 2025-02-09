@@ -24,7 +24,6 @@
 ### All Surf Commands:
 | Command:          | Description:                                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| trail             | Generates a trail that can be used for comparing runs.                                                                |
 | 3dsky             | Toggles the visibility of the 3D skybox space, which can significantly improve your framerate on maps that have them. |
 | average           | Prints out the current map average for your style.                                                                    |
 | bend              | Teleports you to the end of the bonus.                                                                                |
@@ -92,6 +91,7 @@
 | top               | Opens a menu that lists the top surf players on the server.                                                           |
 | toprecords        | Opens a menu that lists the players with the most map records on the server.                                          |
 | totaltime         | Toggles the Total Time message when transitioning to a new stage.                                                     |
+| trail             | Generates a trail that can be used for comparing runs.                                                                |
 | unmuteall         | Quickly unmutes all players currently connected to the server.                                                        |
 | vip               | Opens the VIP menu that allows you to customize many different options.                                               |
 | water             | Toggles the visibility of water reflections and refractions, which can improve your framerate.                        |
