@@ -1,0 +1,441 @@
+-Lua Stack Traces-
+==================
+  Client
+	*Not in Lua call OR Lua has panicked*
+
+  Server
+    Lua Interface = NULL
+
+  MenuSystem
+	*Not in Lua call OR Lua has panicked*
+
+-Console Buffer-
+================
+402(45.386988):  Redownloading all lightmaps
+401(45.380078):  Advanced Joystick settings initialized
+400(45.380074):  JOY_AXIS_V:  unmapped
+399(45.380070):  JOY_AXIS_U:  mapped to Turn (absolute)
+398(45.380066):  JOY_AXIS_R:  mapped to Look (absolute)
+397(45.380062):  JOY_AXIS_Z:  unmapped
+396(45.380057):  JOY_AXIS_Y:  mapped to Forward (absolute)
+395(45.380052):  JOY_AXIS_X:  mapped to Side (absolute)
+394(45.380033):  Using joystick 'Xbox360 controller' configuration
+393(45.376507):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+392(45.347972):  Welcome <green><noparse>Soders</noparse></green>, you're playing: <yellow>surf_pantheon</yellow>.
+391(45.346692):  Thu 13 Feb 2025 01:08:18 PM EST Starting to load item metadata from the server
+390(45.346666):  389(44.054904):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+388(44.053789):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+387(43.133846):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+386(43.132562):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+385(42.603783):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/lumcompare)
+384(42.603585):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/no_pixel_write)
+383(42.602966):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/bloomadd)
+382(40.717513):  material models/player/soldier76/s76_visor_blue has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+381(40.716466):  material models/player/soldier76/s76_visor has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+380(40.712474):  Error! Flag "$halflambert" is multiply defined in material "models/player/soldier76/tex_2159_0"!
+379(40.619382):  Error: Material "hatsunemiku/iris_l" : proxy "FleshInterior" unable to initialize!
+378(40.618803):  Error: Material "hatsunemiku/iris_r" : proxy "FleshInterior" unable to initialize!
+377(40.618358):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/headscan.vtf
+376(40.613747):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/mikunormalnormal.vtf
+375(40.613265):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/bodyscan.vtf
+374(40.599186):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/hots_nova/nova_norm.vtf
+373(40.595537):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/paladins/champions/maeve/0/hair_s.vtf
+372(40.556854):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_silver_2"!
+371(40.554238):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_carbon_2"!
+370(40.550740):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_blue_2"!
+369(40.549133):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_jungle_2"!
+368(40.547652):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_ochre_2"!
+367(40.546047):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_rust_2"!
+366(40.537005):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_body_2"!
+365(40.471426):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/finalfantasy/aerith/hair_p.vtf
+364(40.471057):  material models/finalfantasy/aerith_default/hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+363(40.470982):  Error! Variable "$phongtint" is multiply defined in material "models/finalfantasy/aerith_default/hair"!
+362(40.456988):  material models/ow/tracer/tracer_piercing has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+361(40.456780):  material models/ow/tracer/tracer_metal has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+360(40.442011):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_rabbit_d.vtf
+359(40.441705):  material models/overwatch/dva_pm/dva_hair_2_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+358(40.441341):  material models/overwatch/dva_pm/dva_hair_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+357(40.440593):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_n.vtf
+356(40.440437):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_d.vtf
+355(40.440122):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_watermelon_d.vtf
+354(40.439805):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_tangerine_d.vtf
+353(40.439482):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_lemonlime_d.vtf
+352(40.439120):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_blueberry_d.vtf
+351(40.438811):  material models/overwatch/dva_pm/dva_hair_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+350(40.437858):  material models/overwatch/dva_pm/dva_hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+349(40.436638):  Error reading material data "materials/models/overwatch/dva_pm/softsilver.vtf"
+348(40.435140):  material models/overwatch/dva_pm/dva_teeth has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+347(40.434959):  material models/overwatch/dva_pm/dva_lashes_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+346(40.433369):  material models/overwatch/dva_pm/dva_lashes has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+345(40.430067):  Error: Material "models/hostages/pupil_l" uses unknown shader "Eyeball"
+344(40.429737):  Error: Material "models/hostages/pupil_r" uses unknown shader "Eyeball"
+343(40.329543):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/sunglass"!
+342(39.675594):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/motoko_02"!
+341(39.523403):  Error: Material "models/humans/female/pupil_l" uses unknown shader "Eyeball"
+340(39.523004):  Error: Material "models/humans/female/pupil_r" uses unknown shader "Eyeball"
+339(37.911953):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue" : proxy "Equals" unable to initialize!
+338(37.911924):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue"
+337(37.833674):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1" : proxy "Equals" unable to initialize!
+336(37.833644):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1"
+335(34.919576):  Error! Variable "$envmap" is multiply defined in material "aviator/aviator"!
+334(33.953929):  env_cubemap used on world geometry without rebuilding map. . ignoring: cs_italy/cr_miscwood2b
+333(31.908526):  Thu 13 Feb 2025 01:08:04 PM EST ---------------------------------------
+332(31.908521):  331(31.908513):  Thu 13 Feb 2025 01:08:04 PM EST Loaded 21/21 Modules
+330(31.908507):  329(31.908496):  Thu 13 Feb 2025 01:08:04 PM EST ---------------------------------------
+328(31.908482):  327(31.906654):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module votemap_system 
+326(31.906637):  325(31.905135):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module trail_system 
+324(31.905121):  323(31.903458):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module title_system 
+322(31.903445):  321(31.902961):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module third_person 
+320(31.902946):  319(31.900960):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module store_system 
+318(31.900946):  317(31.899320):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module stats_system 
+316(31.899308):  315(31.898862):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module spectate_system 
+314(31.898850):  313(31.898430):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module privatemessage_system 
+312(31.898417):  311(31.897544):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module platinum_system 
+310(31.897530):  309(31.892661):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module market_system 
+308(31.892648):  307(31.891762):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module lottery_system 
+306(31.891749):  305(31.890926):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module loadingscreen_system 
+304(31.890910):  303(31.888331):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module f1_menu 
+302(31.888319):  301(31.887925):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module cube_system 
+300(31.887895):  299(31.450110):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module equip_system (Forced)
+298(31.450091):  297(31.440213):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module inventory_system (Forced)
+296(31.440202):  295(31.439709):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module crafting_system 
+294(31.439695):  293(31.438864):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module chat_emotes 
+292(31.438850):  291(31.437204):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module basic_scoreboard 
+290(31.437191):  289(31.436728):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module afk_system 
+288(31.436708):  287(31.433415):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading Module achievement_system 
+286(31.433406):  285(31.433130):  Thu 13 Feb 2025 01:08:04 PM EST ---------------------------------------
+284(31.433124):  283(31.433117):  Thu 13 Feb 2025 01:08:04 PM EST ---------Loading BBase Modules---------
+282(31.433111):  281(31.433101):  Thu 13 Feb 2025 01:08:04 PM EST ---------------------------------------
+280(31.433067):  279(31.283645):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading event halloween 
+278(31.283633):  277(31.283222):  Thu 13 Feb 2025 01:08:04 PM EST ---Loading event christmas 
+276(31.283192):  275(31.241308):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+274(31.239992):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+273(30.843830):  Clientside Lua startup!
+272(30.664944):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/lumcompare)
+271(30.647062):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/no_pixel_write)
+270(30.634737):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/bloomadd)
+269(30.029857):  Lua cache is up to date
+268(25.902401):  material models/player/soldier76/s76_visor_blue has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+267(25.902259):  material models/player/soldier76/s76_visor has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+266(25.901899):  Error! Flag "$halflambert" is multiply defined in material "models/player/soldier76/tex_2159_0"!
+265(25.573157):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/headscan.vtf
+264(25.479464):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/mikunormalnormal.vtf
+263(25.478899):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/bodyscan.vtf
+262(25.476255):  Error: Material "hatsunemiku/iris_l" : proxy "FleshInterior" unable to initialize!
+261(25.476028):  Error: Material "hatsunemiku/iris_r" : proxy "FleshInterior" unable to initialize!
+260(25.248710):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/hots_nova/nova_norm.vtf
+259(25.240930):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/paladins/champions/maeve/0/hair_s.vtf
+258(24.983611):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_silver_2"!
+257(24.983157):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_carbon_2"!
+256(24.982683):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_blue_2"!
+255(24.982208):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_jungle_2"!
+254(24.981736):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_ochre_2"!
+253(24.981256):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_rust_2"!
+252(24.980681):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_body_2"!
+251(24.251946):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/finalfantasy/aerith/hair_p.vtf
+250(24.241395):  material models/finalfantasy/aerith_default/hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+249(24.241315):  Error! Variable "$phongtint" is multiply defined in material "models/finalfantasy/aerith_default/hair"!
+248(24.195673):  material models/ow/tracer/tracer_piercing has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+247(24.195511):  material models/ow/tracer/tracer_metal has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+246(24.119317):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_rabbit_d.vtf
+245(24.118339):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_n.vtf
+244(24.118132):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_d.vtf
+243(24.117685):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_watermelon_d.vtf
+242(24.117247):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_tangerine_d.vtf
+241(24.116769):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_lemonlime_d.vtf
+240(24.116165):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_blueberry_d.vtf
+239(24.018626):  Error reading material data "materials/models/overwatch/dva_pm/softsilver.vtf"
+238(24.012516):  material models/overwatch/dva_pm/dva_hair_2_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+237(24.012369):  material models/overwatch/dva_pm/dva_hair_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+236(24.011058):  material models/overwatch/dva_pm/dva_hair_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+235(24.010914):  material models/overwatch/dva_pm/dva_hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+234(24.010365):  material models/overwatch/dva_pm/dva_teeth has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+233(24.010217):  material models/overwatch/dva_pm/dva_lashes_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+232(24.010060):  material models/overwatch/dva_pm/dva_lashes has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+231(23.817632):  Error: Material "models/hostages/pupil_l" uses unknown shader "Eyeball"
+230(23.817512):  Error: Material "models/hostages/pupil_r" uses unknown shader "Eyeball"
+229(23.420121):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/sunglass"!
+228(23.418053):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/motoko_02"!
+227(22.524089):  Error: Material "models/humans/female/pupil_l" uses unknown shader "Eyeball"
+226(22.523738):  Error: Material "models/humans/female/pupil_r" uses unknown shader "Eyeball"
+225(21.816476):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue" : proxy "Equals" unable to initialize!
+224(21.816463):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue"
+223(21.816041):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1" : proxy "Equals" unable to initialize!
+222(21.816013):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1"
+221(21.069876):  Error! Variable "$envmap" is multiply defined in material "aviator/aviator"!
+220(18.525932):  env_cubemap used on world geometry without rebuilding map. . ignoring: cs_italy/cr_miscwood2b
+219(18.133691):  PREP OK
+218(16.848807):  WorkshopDL: Querying 6 addons for info..
+217(16.784304):  Attemped to precache unknown particle system "fuse_sparks"!
+216(16.784289):  Attemped to precache unknown particle system "unusual_zap_yellow"!
+215(16.784274):  Attemped to precache unknown particle system "unusual_spray_confetti"!
+214(16.784259):  Attemped to precache unknown particle system "unusual_spellbook_circle_purple"!
+213(16.784243):  Attemped to precache unknown particle system "unusual_orbit_planets_bb"!
+212(16.784228):  Attemped to precache unknown particle system "unusual_orbit_nutsnbolts"!
+211(16.784213):  Attemped to precache unknown particle system "unusual_orbit_cash"!
+210(16.784197):  Attemped to precache unknown particle system "unusual_meteor_shower_parent_orange"!
+209(16.784182):  Attemped to precache unknown particle system "unusual_crisp_spotlights"!
+208(16.784165):  Attemped to precache unknown particle system "superrare_circling_heart"!
+207(16.784150):  Attemped to precache unknown particle system "superrare_plasma1_bb"!
+206(16.784135):  Attemped to precache unknown particle system "superrare_orbit_bb"!
+205(16.784119):  Attemped to precache unknown particle system "superrare_confetti_green"!
+204(16.784104):  Attemped to precache unknown particle system "superrare_circling_skull"!
+203(16.784089):  Attemped to precache unknown particle system "superrare_burning1_bb"!
+202(16.784073):  Attemped to precache unknown particle system "unusual_symbols_parent_lightning"!
+201(16.784058):  Attemped to precache unknown particle system "unusual_constellations_purple"!
+200(16.784042):  Attemped to precache unknown particle system "unusual_star_green_parent"!
+199(16.784027):  Attemped to precache unknown particle system "unusual_eyes_orange_parent"!
+198(16.784011):  Attemped to precache unknown particle system "unusual_invasion_nebula"!
+197(16.783996):  Attemped to precache unknown particle system "unusual_invasion_boogaloop"!
+196(16.783980):  Attemped to precache unknown particle system "unusual_eldritch_flames_orange"!
+195(16.783965):  Attemped to precache unknown particle system "unusual_spotlights"!
+194(16.783950):  Attemped to precache unknown particle system "unusual_psychic_eye"!
+193(16.783935):  Attemped to precache unknown particle system "unusual_invasion_atomic"!
+192(16.783919):  Attemped to precache unknown particle system "unusual_mistletoe_teamcolor_red"!
+191(16.783904):  Attemped to precache unknown particle system "unusual_mistletoe_teamcolor_blue"!
+190(16.783888):  Attemped to precache unknown particle system "unusual_blizzard_snow"!
+189(16.783873):  Attemped to precache unknown particle system "unusual_bubbles_green_fumes"!
+188(16.783857):  Attemped to precache unknown particle system "superrare_ghosts"!
+187(16.783841):  Attemped to precache unknown particle system "unusual_fullmoon_cloudy"!
+186(16.783826):  Attemped to precache unknown particle system "unusual_aaa_aaa"!
+185(16.783811):  Attemped to precache unknown particle system "taunt_spy_headbutt_cig_smoke"!
+184(16.783795):  Attemped to precache unknown particle system "unusual_robot_orbit_binary"!
+183(16.783780):  Attemped to precache unknown particle system "unusual_storm"!
+182(16.783765):  Attemped to precache unknown particle system "unusual_smoking"!
+181(16.783749):  Attemped to precache unknown particle system "unusual_robot_time_warp"!
+180(16.783733):  Attemped to precache unknown particle system "unusual_eotl_frostbite"!
+179(16.783718):  Attemped to precache unknown particle system "superrare_halo"!
+178(16.783703):  Attemped to precache unknown particle system "superrare_beams1_newstyle"!
+177(16.783687):  Attemped to precache unknown particle system "unusual_hearts_bubbling"!
+176(16.783671):  Attemped to precache unknown particle system "unusual_eotl_sunset"!
+175(16.783654):  Attemped to precache unknown particle system "unusual_eotl_sunrise"!
+174(16.783616):  Attemped to precache unknown particle system "flamethrower"!
+173(15.819586):  https://bbservers.co.uk/cdn-cgi/scripts/7d0fa10a/cloudflare-stat...:1: Refused to load the script 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=fetch%2CString.prototype.includes' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.cloudflareinsights.com https://ajax.googleapis.com https://challenges.cloudflare.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+172(15.819580):  171(15.819574):  [HTML] 170(15.819567):  169(15.819551):  https://bbservers.co.uk/cdn-cgi/scripts/7d0fa10a/cloudflare-stat...:1: Refused to load the script 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=fetch%2CString.prototype.includes' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.cloudflareinsights.com https://ajax.googleapis.com https://challenges.cloudflare.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+168(15.819541):  167(15.819531):  [HTML] 166(15.819498):  165(14.643074):  76561198118907985
+164(14.643068):  32
+163(14.643062):  surf_pantheon
+162(14.643056):  surf
+161(14.643049):  https://bbservers.co.uk/loading?steamid=%s&serverid=Surf (Easier)
+160(14.643032):  [BB] Skill-Surf [Easier (T1-3)] Replays! | Leaderboards | Store
+159(14.642715):  Resetting archived convar to default! sv_skyname = "sky190" => "sky_urb01" 
+158(14.631422):  
+Surf
+Map: surf_pantheon
+Players: 10 / 32
+Build: 9529
+Server Number: 64
+
+157(13.310387):  Connected to 149.56.38.33:27015
+156(13.163725):  Connecting to 149.56.38.33:27015...
+155(13.154658):  Network: IP 127.0.0.1, mode MP, dedicated No, ports 27015 SV / 27005 CL
+154(13.016011):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+153(13.013569):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+152(10.623576):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+151(6.844940):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+150(5.824967):  Addons have changes - remounting
+149(5.710832):  
+148(5.710826):  BB CFGs loaded. 147(5.710791):  Host_WriteConfiguration: Wrote cfg/config.cfg
+146(5.705358):  "kp_multiply" is not bound
+145(5.705353):  "kp_enter" is not bound
+144(5.705348):  "kp_plus" is not bound
+143(5.705343):  "kp_minus" is not bound
+142(5.705338):  "kp_del" is not bound
+141(5.705332):  "kp_ins" is not bound
+140(5.705327):  "kp_pgup" is not bound
+139(5.705322):  "kp_uparrow" is not bound
+138(5.705317):  "kp_home" is not bound
+137(5.705312):  "kp_rightarrow" is not bound
+136(5.705306):  "kp_5" is not bound
+135(5.705301):  "kp_leftarrow" is not bound
+134(5.705296):  "kp_pgdn" is not bound
+133(5.705291):  "kp_downarrow" is not bound
+132(5.705286):  "kp_end" is not bound
+131(5.705280):  "pgdn" is not bound
+130(5.705275):  "pause" is not bound
+129(5.705269):  "scrolllock" is not bound
+128(5.705263):  "numlock" is not bound
+127(5.705257):  "apps" isn't a valid key
+126(5.705243):  "rwin" is not bound
+125(5.705237):  "lwin" is not bound
+124(5.705231):  "semicolon" is not bound
+123(5.705226):  "enter" is not bound
+122(5.705221):  "backspace" is not bound
+121(5.705215):  "capslock" is not bound
+120(5.705210):  "del" is not bound
+119(5.705205):  "ins" is not bound
+118(5.705200):  "end" is not bound
+117(5.705195):  "." is not bound
+116(5.705189):  "/" is not bound
+115(5.705184):  "\" is not bound
+114(5.705179):  "]" is not bound
+113(5.705174):  "[" is not bound
+112(5.705169):  "=" is not bound
+111(5.705163):  "-" is not bound
+110(5.705158):  "F9" is not bound
+109(5.705153):  "F8" is not bound
+108(5.705147):  "F6" is not bound
+107(5.705141):  "F5" is not bound
+106(5.705136):  "z" is not bound
+105(5.705131):  "x" is not bound
+104(5.705126):  "p" = ""
+103(5.705121):  "o" is not bound
+102(5.705116):  "n" is not bound
+101(5.705111):  "m" is not bound
+100(5.705107):  "l" is not bound
+99(5.705102):  "j" is not bound
+98(5.705097):  "i" is not bound
+97(5.705092):  "h" is not bound
+96(5.705087):  "g" is not bound
+95(5.705083):  "b" is not bound
+94(5.705078):  "0" is not bound
+93(5.705073):  "9" is not bound
+92(5.705068):  "8" is not bound
+91(5.705063):  "7" is not bound
+90(5.705059):  "3" is not bound
+89(5.705053):  "2" is not bound
+88(5.705046):  "1" is not bound
+87(5.704949):  Unknown command "windows_speaker_config"
+86(5.704907):  bind <key> [command] : attach a command to a key
+85(5.704744):  "F3" = ""
+84(5.704734):  "F2" is not bound
+83(5.704505):  
+82(5.704499):  BB CFGs loaded. 81(5.704460):  Host_WriteConfiguration: Wrote cfg/config.cfg
+80(5.679052):  "kp_multiply" is not bound
+79(5.679047):  "kp_enter" is not bound
+78(5.679042):  "kp_plus" is not bound
+77(5.679037):  "kp_minus" is not bound
+76(5.679031):  "kp_del" is not bound
+75(5.679026):  "kp_ins" is not bound
+74(5.679021):  "kp_pgup" is not bound
+73(5.679016):  "kp_uparrow" is not bound
+72(5.679011):  "kp_home" is not bound
+71(5.679006):  "kp_rightarrow" is not bound
+70(5.679000):  "kp_5" is not bound
+69(5.678994):  "kp_leftarrow" is not bound
+68(5.678989):  "kp_pgdn" is not bound
+67(5.678983):  "kp_downarrow" is not bound
+66(5.678978):  "kp_end" is not bound
+65(5.678972):  "pgdn" is not bound
+64(5.678967):  "pause" is not bound
+63(5.678961):  "scrolllock" is not bound
+62(5.678956):  "numlock" is not bound
+61(5.678950):  "apps" isn't a valid key
+60(5.678935):  "rwin" is not bound
+59(5.678930):  "lwin" is not bound
+58(5.678925):  "semicolon" is not bound
+57(5.678919):  "enter" is not bound
+56(5.678914):  "backspace" is not bound
+55(5.678909):  "capslock" is not bound
+54(5.678903):  "del" is not bound
+53(5.678898):  "ins" is not bound
+52(5.678892):  "end" is not bound
+51(5.678887):  "." is not bound
+50(5.678882):  "/" is not bound
+49(5.678877):  "\" is not bound
+48(5.678872):  "]" is not bound
+47(5.678866):  "[" is not bound
+46(5.678861):  "=" is not bound
+45(5.678856):  "-" is not bound
+44(5.678851):  "F9" is not bound
+43(5.678845):  "F8" is not bound
+42(5.678839):  "F6" is not bound
+41(5.678834):  "F5" is not bound
+40(5.678828):  "z" is not bound
+39(5.678823):  "x" is not bound
+38(5.678818):  "p" = ""
+37(5.678813):  "o" is not bound
+36(5.678808):  "n" is not bound
+35(5.678803):  "m" is not bound
+34(5.678798):  "l" is not bound
+33(5.678793):  "j" is not bound
+32(5.678788):  "i" is not bound
+31(5.678782):  "h" is not bound
+30(5.678778):  "g" is not bound
+29(5.678773):  "b" is not bound
+28(5.678768):  "0" is not bound
+27(5.678763):  "9" is not bound
+26(5.678758):  "8" is not bound
+25(5.678753):  "7" is not bound
+24(5.678748):  "3" is not bound
+23(5.678743):  "2" is not bound
+22(5.678735):  "1" is not bound
+21(5.678635):  Unknown command "windows_speaker_config"
+20(5.678594):  bind <key> [command] : attach a command to a key
+19(5.678430):  "F3" = ""
+18(5.678414):  "F2" is not bound
+17(5.676679):  SetLocale('en_US.UTF-8') failed. Using 'LC_CTYPE=en_US.UTF-8;LC_NUMERIC=C;LC_TIME=en_US.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=en_US.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=en_US.UTF-8;LC_NAME=en_US.UTF-8;LC_ADDRESS=en_US.UTF-8;LC_TELEPHONE=en_US.UTF-8;LC_MEASUREMENT=en_US.UTF-8;LC_IDENTIFICATION=en_US.UTF-8'.
+You may have limited glyph support.
+Please install 'en_US.UTF-8' locale.
+16(5.656037):  Advanced Joystick settings initialized
+15(5.656034):  JOY_AXIS_V:  unmapped
+14(5.656029):  JOY_AXIS_U:  mapped to Turn (absolute)
+13(5.656024):  JOY_AXIS_R:  mapped to Look (absolute)
+12(5.656020):  JOY_AXIS_Z:  unmapped
+11(5.656015):  JOY_AXIS_Y:  mapped to Forward (absolute)
+10(5.656009):  JOY_AXIS_X:  mapped to Side (absolute)
+9(5.655987):  Using joystick 'Xbox360 controller' configuration
+8(5.645950):  Did not detect any valid joysticks.
+7(5.195453):  Parent cvar in server.dll not allowed (props_break_max_pieces)
+6(5.192789):  x86-64: gmod_mcore_test=1
+5(4.338304):  Adding Filesystem Addon 'addons/hl2ep2-content'
+4(4.338140):  Adding Filesystem Addon 'addons/hl2ep1-content'
+3(4.338084):  Adding Filesystem Addon 'addons/css-maps'
+2(4.338008):  Adding Filesystem Addon 'addons/css-content'
+1(4.325940):  Attempting to load Chromium...
