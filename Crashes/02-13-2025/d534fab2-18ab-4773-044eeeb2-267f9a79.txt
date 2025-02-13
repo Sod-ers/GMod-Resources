@@ -1,0 +1,408 @@
+-Lua Stack Traces-
+==================
+  Client
+	*Not in Lua call OR Lua has panicked*
+
+  Server
+    Lua Interface = NULL
+
+  MenuSystem
+	*Not in Lua call OR Lua has panicked*
+
+-Console Buffer-
+================
+901(1492.988641):  
+900(1492.852924):  
+899(1491.246434):  
+898(1489.923802):  [2]	=	5
+897(1489.923795):  		896(1489.923788):  [1]	=	Player [17][Soders]
+895(1489.923779):  		894(1489.923771):  [1]:
+893(1489.923760):  892(1489.923692):  Welcome back MVP. Dream big, ban often.
+891(1489.806101):  Thu 13 Feb 2025 06:18:06 PM EST Got all chunks of item metadata!
+890(1489.806092):  889(1489.806002):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 6, items in chunk 33
+888(1489.805992):  887(1489.805724):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 5, items in chunk 100
+886(1489.805712):  885(1489.805301):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 4, items in chunk 100
+884(1489.805292):  883(1489.805058):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 3, items in chunk 100
+882(1489.805048):  881(1489.804812):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 2, items in chunk 100
+880(1489.804799):  879(1489.804358):  Thu 13 Feb 2025 06:18:06 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 1, items in chunk 99
+878(1489.804331):  877(1489.116263):  
+876(1488.991757):  Redownloading all lightmaps
+875(1488.984455):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+874(1488.955652):  Welcome <green><noparse>unconnected</noparse></green>, you're playing: <yellow>surf_tendies</yellow>.
+873(1488.954568):  Thu 13 Feb 2025 06:18:05 PM EST Starting to load item metadata from the server
+872(1488.954539):  871(1487.600496):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+870(1487.599369):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+869(1487.529998):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/stone/oakk_stone_03
+868(1487.529902):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/purple_crystal/blue_crystal
+867(1487.529812):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/purple_crystal/only_blue
+866(1487.529714):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/wood_dark
+865(1487.529630):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/snowwall004a
+864(1487.529544):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/kuri_ramp_wood
+863(1487.529456):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/concwsnow01
+862(1487.529350):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/oakk_snow_i_00
+861(1487.529265):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/wood_bounce
+860(1487.529180):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/woodi
+859(1487.529096):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/pipeset_metal
+858(1487.529008):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/citadel_tilefloor016a_cheap
+857(1487.528918):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/metalfloor002a
+856(1487.528830):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/white
+855(1487.528744):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/metal_161
+854(1487.528655):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/train_metalceiling_02
+853(1487.528538):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/cave_assets/xen_c1a4a_rock_001a
+852(1487.528431):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin4
+851(1487.528340):  CMaterial::PrecacheVars: error loading vmt file for models/props_am/xencrystal_sheet
+850(1487.528237):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin3
+849(1487.528149):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin2
+848(1487.528057):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin1
+847(1487.527952):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/crystals/watercrystal01
+846(1487.527824):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/xen_charger_crystal
+845(1486.997389):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+844(1486.995957):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+843(1483.806461):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/lumcompare)
+842(1483.792036):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/no_pixel_write)
+841(1483.784393):  Requesting texture value from var "$basetexture" which is not a texture value (material: dev/bloomadd)
+840(1483.648880):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/stone/oakk_stone_03
+839(1483.648781):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/purple_crystal/blue_crystal
+838(1483.648690):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/purple_crystal/only_blue
+837(1483.648589):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/wood_dark
+836(1483.648503):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/snowwall004a
+835(1483.648417):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/kuri_ramp_wood
+834(1483.648326):  CMaterial::PrecacheVars: error loading vmt file for surf_kuri/ramp/concwsnow01
+833(1483.648191):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/oakk_snow_i_00
+832(1483.648104):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/wood_bounce
+831(1483.648010):  CMaterial::PrecacheVars: error loading vmt file for kappa/snow_tree/woodi
+830(1483.647479):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/pipeset_metal
+829(1483.647391):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/citadel_tilefloor016a_cheap
+828(1483.647300):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/metalfloor002a
+827(1483.647212):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/white
+826(1483.647123):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/metal_161
+825(1483.647009):  CMaterial::PrecacheVars: error loading vmt file for kappa/frey_lamppu/train_metalceiling_02
+824(1483.192919):  material models/player/soldier76/s76_visor_blue has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+823(1483.156901):  material models/player/soldier76/s76_visor has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+822(1483.091947):  Error! Flag "$halflambert" is multiply defined in material "models/player/soldier76/tex_2159_0"!
+821(1482.853965):  Error: Material "hatsunemiku/iris_l" : proxy "FleshInterior" unable to initialize!
+820(1482.829479):  Error: Material "hatsunemiku/iris_r" : proxy "FleshInterior" unable to initialize!
+819(1482.828855):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/headscan.vtf
+818(1482.794187):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/mikunormalnormal.vtf
+817(1482.793280):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/hatsunemiku/bodyscan.vtf
+816(1482.670106):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/hots_nova/nova_norm.vtf
+815(1482.666060):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/paladins/champions/maeve/0/hair_s.vtf
+814(1482.625216):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_silver_2"!
+813(1482.622295):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_carbon_2"!
+812(1482.618752):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_blue_2"!
+811(1482.617106):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_jungle_2"!
+810(1482.615276):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_ochre_2"!
+809(1482.613565):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_rust_2"!
+808(1482.604315):  Error! Variable "$phongfresnelranges" is multiply defined in material "models/overwatch/genji/genji_body_2"!
+807(1482.345188):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/finalfantasy/aerith/hair_p.vtf
+806(1482.344768):  material models/finalfantasy/aerith_default/hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+805(1482.344689):  Error! Variable "$phongtint" is multiply defined in material "models/finalfantasy/aerith_default/hair"!
+804(1482.309723):  material models/ow/tracer/tracer_piercing has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+803(1482.309498):  material models/ow/tracer/tracer_metal has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+802(1482.292155):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_rabbit_d.vtf
+801(1482.291831):  material models/overwatch/dva_pm/dva_hair_2_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+800(1482.291333):  material models/overwatch/dva_pm/dva_hair_carbon has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+799(1482.290549):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_n.vtf
+798(1482.290287):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_carbon_d.vtf
+797(1482.289869):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_watermelon_d.vtf
+796(1482.289375):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_tangerine_d.vtf
+795(1482.288993):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_lemonlime_d.vtf
+794(1482.288468):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/models/overwatch/dva_pm/dva_body_blueberry_d.vtf
+793(1482.288128):  material models/overwatch/dva_pm/dva_hair_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+792(1482.287070):  material models/overwatch/dva_pm/dva_hair has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+791(1482.285719):  Error reading material data "materials/models/overwatch/dva_pm/softsilver.vtf"
+790(1482.283535):  material models/overwatch/dva_pm/dva_teeth has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+789(1482.283258):  material models/overwatch/dva_pm/dva_lashes_2 has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+788(1482.281089):  material models/overwatch/dva_pm/dva_lashes has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
+
+787(1482.277119):  Error: Material "models/hostages/pupil_l" uses unknown shader "Eyeball"
+786(1482.276707):  Error: Material "models/hostages/pupil_r" uses unknown shader "Eyeball"
+785(1482.043047):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/sunglass"!
+784(1481.853683):  Error! Flag "$normalmapalphaenvmapmask" is multiply defined in material "models/tfa_gits/motoko/2nd/motoko_02"!
+783(1481.692251):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/cave_assets/xen_c1a4a_rock_001a
+782(1481.692141):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin4
+781(1481.692047):  CMaterial::PrecacheVars: error loading vmt file for models/props_am/xencrystal_sheet
+780(1481.691887):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin3
+779(1481.691798):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin2
+778(1481.691705):  CMaterial::PrecacheVars: error loading vmt file for models/props_rocks/crystalskin1
+777(1481.691584):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/crystals/watercrystal01
+776(1481.690809):  CMaterial::PrecacheVars: error loading vmt file for models/props_xen/xen_charger_crystal
+775(1481.678907):  Error: Material "models/humans/female/pupil_l" uses unknown shader "Eyeball"
+774(1481.660726):  Error: Material "models/humans/female/pupil_r" uses unknown shader "Eyeball"
+773(1480.710646):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue" : proxy "Equals" unable to initialize!
+772(1480.710614):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1_blue"
+771(1480.687680):  Error: Material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1" : proxy "Equals" unable to initialize!
+770(1480.687648):  No such variable "$
+color2" for material "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_1"
+769(1479.341606):  Error! Variable "$envmap" is multiply defined in material "aviator/aviator"!
+768(1478.954336):  
+ ##### CTexture::LoadTextureBitsFromFile couldn't find materials/__font_page_0.vtf
+767(1478.901647):  Thu 13 Feb 2025 06:17:55 PM EST ---------------------------------------
+766(1478.901640):  765(1478.901630):  Thu 13 Feb 2025 06:17:55 PM EST Loaded 21/21 Modules
+764(1478.901616):  763(1478.901581):  Thu 13 Feb 2025 06:17:55 PM EST ---------------------------------------
+762(1478.901538):  761(1478.899667):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module votemap_system 
+760(1478.899645):  759(1478.897967):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module trail_system 
+758(1478.897943):  757(1478.896206):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module title_system 
+756(1478.896192):  755(1478.895677):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module third_person 
+754(1478.895649):  753(1478.893468):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module store_system 
+752(1478.893436):  751(1478.891703):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module stats_system 
+750(1478.891690):  749(1478.891222):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module spectate_system 
+748(1478.891207):  747(1478.890739):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module privatemessage_system 
+746(1478.890719):  745(1478.889730):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module platinum_system 
+744(1478.889698):  743(1478.884680):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module market_system 
+742(1478.884664):  741(1478.883741):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module lottery_system 
+740(1478.883724):  739(1478.882781):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module loadingscreen_system 
+738(1478.882751):  737(1478.879974):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module f1_menu 
+736(1478.879961):  735(1478.879514):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module cube_system 
+734(1478.879480):  733(1478.481323):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module equip_system (Forced)
+732(1478.481290):  731(1478.470728):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module inventory_system (Forced)
+730(1478.470715):  729(1478.470172):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module crafting_system 
+728(1478.470155):  727(1478.469143):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module chat_emotes 
+726(1478.469123):  725(1478.467272):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module basic_scoreboard 
+724(1478.467257):  723(1478.466780):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module afk_system 
+722(1478.466746):  721(1478.463072):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading Module achievement_system 
+720(1478.463060):  719(1478.462763):  Thu 13 Feb 2025 06:17:55 PM EST ---------------------------------------
+718(1478.462758):  717(1478.462750):  Thu 13 Feb 2025 06:17:55 PM EST ---------Loading BBase Modules---------
+716(1478.462743):  715(1478.462732):  Thu 13 Feb 2025 06:17:55 PM EST ---------------------------------------
+714(1478.462695):  713(1478.439063):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading event halloween 
+712(1478.439050):  711(1478.438604):  Thu 13 Feb 2025 06:17:55 PM EST ---Loading event christmas 
+710(1478.438568):  709(1478.379102):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+708(1478.377782):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+707(1478.194646):  Clientside Lua startup!
+706(1477.874067):  Lua cache is up to date
+705(1474.021445):  PREP OK
+704(1473.924884):  Addon '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/575900684/surf.gma' is already mounted, ignoring...
+703(1473.889368):  Addon '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/888858847/bbase_sounds.gma' is already mounted, ignoring...
+702(1473.639336):  Unmounting (for update, server) '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/2177763298/bbase_player_models.gma'
+701(1473.413974):  Unmounting (for update, server) '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/888857412/bbase_models.gma'
+700(1473.153543):  Unmounting (for update, server) '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/888860159/bbase_materials.gma'
+699(1472.942184):  Unmounting (for update, server) '/home/soders/.steam/debian-installation/steamapps/workshop/content/4000/178921020/bbase_core.gma'
+698(1472.742334):  WorkshopDL: Querying 6 addons for info..
+697(1472.691558):  Attemped to precache unknown particle system "fuse_sparks"!
+696(1471.636142):  https://bbservers.co.uk/cdn-cgi/scripts/7d0fa10a/cloudflare-stat...:1: Refused to load the script 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=fetch%2CString.prototype.includes' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.cloudflareinsights.com https://ajax.googleapis.com https://challenges.cloudflare.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+695(1471.636135):  694(1471.636129):  [HTML] 693(1471.636121):  692(1471.636106):  https://bbservers.co.uk/cdn-cgi/scripts/7d0fa10a/cloudflare-stat...:1: Refused to load the script 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=fetch%2CString.prototype.includes' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.cloudflareinsights.com https://ajax.googleapis.com https://challenges.cloudflare.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+691(1471.636095):  690(1471.636086):  [HTML] 689(1471.636048):  688(1470.712456):  76561198118907985
+687(1470.712450):  32
+686(1470.712444):  surf_tendies
+685(1470.712437):  surf
+684(1470.712430):  https://bbservers.co.uk/loading?steamid=%s&serverid=Surf (Easier)
+683(1470.712413):  [BB] Skill-Surf [Easier (T1-3)] Replays! | Leaderboards | Store
+682(1470.712065):  Resetting archived convar to default! sv_skyname = "mpa115" => "sky_urb01" 
+681(1470.662660):  
+Surf
+Map: surf_tendies
+Players: 22 / 32
+Build: 9529
+Server Number: 75
+
+680(1458.904189):  
+679(1457.777278):  
+678(1456.547647):  : g
+677(1456.547620):  Dr. House676(1456.547566):  675(1452.624537):  
+674(1452.170846):  
+673(1451.179700):  : and honestly I understand it cuz I aint that high rank and this is why im there
+672(1451.179692):  Rappoff671(1451.179664):  670(1449.683384):  
+669(1446.977511):  
+668(1442.135988):  
+667(1441.806960):  : washed
+666(1441.806952):  Pupsta665(1441.806916):  664(1441.357988):  
+663(1441.356568):  
+662(1439.777895):  
+661(1438.623661):  
+660(1437.647433):  : naah im pissed why the fuck was i so slow
+659(1437.647425):  Pupsta658(1437.647386):  657(1437.138032):  
+656(1437.062948):  
+655(1434.140895):  
+654(1433.996190):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+653(1433.990950):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+652(1430.359810):  
+651(1409.808267):  
+650(1407.104999):  
+649(1400.439306):  
+648(1400.438603):  
+647(1400.437539):  
+646(1400.435407):  
+645(1400.434437):  
+644(1398.366891):  : them
+643(1398.366884):  Twingey642(1398.366851):  641(1397.194425):  : niggas in paris
+640(1397.194418):  alias639(1397.194387):  638(1393.095257):  
+637(1389.906320):  : who is they
+636(1389.906313):  Rappoff635(1389.906271):  634(1387.424255):  
+633(1379.009881):  
+632(1373.524925):  : they were saying the same thing about you
+631(1373.524917):  alias630(1373.524883):  629(1341.066389):  : 500 ping is overrated
+628(1341.066382):  Rappoff627(1341.066346):  626(1328.886296):  : <img path=models/hostages/art_facemap/>
+625(1328.886289):  Soders624(1328.886250):  623(1323.528817):  : until Soders trys
+622(1323.528809):  alias621(1323.528771):  620(1316.415966):  : im on all time good enough for me
+619(1316.415958):  alias618(1316.415927):  617(1302.137915):  
+616(1291.560474):  
+615(1281.226242):  
+614(1275.105539):  : Deb-Deb: pupsta and his pants issue has broken me
+613(1275.105532):  Pupsta612(1275.105499):  611(1260.586069):  : do the pants thing
+610(1260.586061):  alias609(1260.586028):  608(1238.810060):  : bro wtf am i so slow
+607(1238.810053):  Pupsta606(1238.810019):  605(1237.220347):  
+604(1237.219122):  
+603(1237.216782):  
+602(1204.412080):  
+601(1201.908619):  
+600(1201.907644):  
+599(1191.452724):  
+598(1183.075772):  
+597(1183.074441):  
+596(1183.069419):  
+595(1162.722027):  
+594(1162.720932):  
+593(1162.714930):  
+592(1162.714231):  
+591(1162.713379):  
+590(1162.636322):  
+589(1160.084065):  
+588(1141.487505):  
+587(1132.157367):  
+586(1102.802779):  
+585(1086.392781):  
+584(1082.838663):  
+583(1068.930684):  
+582(1054.848102):  
+581(1051.277898):  
+580(1032.148709):  
+579(1029.990412):  
+578(1013.564400):  
+577(1004.598491):  
+576(985.484594):  
+575(982.802948):  
+574(982.802038):  
+573(976.773861):  
+572(972.870443):  
+571(945.494820):  
+570(939.916964):  
+569(939.915764):  
+568(939.854228):  
+567(928.113213):  
+566(928.112605):  
+565(928.111639):  
+564(928.109358):  
+563(924.055590):  : just wanted to finish the fucking map
+562(924.055582):  Rappoff561(924.055551):  560(923.087296):  
+559(918.186757):  
+558(918.184270):  
+557(918.183426):  
+556(914.797166):  
+555(914.796129):  
+554(914.793760):  
+553(914.792927):  
+552(914.791777):  
+551(891.722485):  
+550(891.630944):  : ff
+549(891.630936):  justcallmestuddad548(891.630905):  547(885.568987):  
+546(883.834070):  
+545(883.833460):  
+544(883.832861):  
+543(883.831736):  
+542(866.731122):  
+541(866.241344):  : f
+540(866.241337):  Pupsta539(866.241308):  538(862.726023):  : BRO FUCK OFF
+537(862.726016):  Rappoff536(862.725987):  535(843.395504):  
+534(843.392975):  
+533(843.391895):  
+532(811.501097):  
+531(802.113741):  
+530(790.992888):  
+529(785.359150):  : bro
+528(785.359143):  Rappoff527(785.359111):  526(777.784602):  : not enough speed to reach the end smh
+525(777.784594):  Radowz524(777.784555):  523(767.630976):  : ffffffffffffffff
+522(767.630966):  Radowz521(767.630930):  520(740.697848):  
+519(736.982084):  
+518(726.507358):  
+517(726.499459):  
+516(674.190674):  
+515(668.252001):  : Can't seem to get enough speed to jump that grate
+514(668.251993):  Doktor Karde513(668.251955):  512(632.251938):  
+511(601.895421):  
+510(588.752771):  
+509(511.385180):  
+508(505.249408):  
+507(495.517158):  
+506(490.567776):  
+505(487.581306):  
+504(424.220291):  
+503(412.668436):  
+502(411.475614):  
+501(376.644174):  
+500(339.950461):  
+499(318.217950):  
+498(311.313418):  
+497(296.690963):  
+496(281.279339):  : holy carpenter i joined my first surf server like gaddamn 10 years ago lmao
+495(281.279332):  Radowz494(281.279293):  493(255.355455):  
+492(255.352967):  
+491(255.351963):  
+490(249.473517):  : thats wild
+489(249.473509):  Pupsta488(249.473471):  487(243.102115):  : I played k2 for the first time like last year
+486(243.102107):  Rappoff485(243.102070):  484(242.104796):  : like 8 years ago
+483(242.104788):  Pupsta482(242.104748):  481(230.382099):  : when did u start to surf?
+480(230.382091):  Rappoff479(230.382058):  478(211.341099):  
+477(202.399431):  : you thought kitsune 2 was new? i mean dam fair enough lol
+476(202.399424):  Pupsta475(202.399392):  474(185.321513):  : sorry
+473(185.321505):  Rappoff472(185.321472):  471(185.241684):  
+470(183.975709):  : ik kitsune 1 is but i thought k2 was new
+469(183.975701):  Rappoff468(183.975665):  467(175.805129):  
+466(174.861962):  : ^
+465(174.861955):  Radowz464(174.861922):  463(169.118295):  : kinda old lmao
+462(169.118286):  Pupsta461(169.118242):  460(166.689309):  : yeah but kitsune 2 is like
+459(166.689302):  Pupsta458(166.689263):  457(164.948016):  : kit is like an old og map
+456(164.948008):  Radowz455(164.947967):  454(159.734682):  : u said this map is kinda new
+453(159.734675):  Rappoff452(159.734637):  451(147.628080):  : yeah I asked if this map is newer than kitsune 2
+450(147.628073):  Rappoff449(147.628038):  448(122.916489):  : lol
+447(122.916482):  Radowz446(122.916446):  445(118.745669):  : wat
+444(118.745662):  Pupsta443(118.745629):  442(116.756226):  : then kitsune 2?
+441(116.756219):  Pupsta440(116.756187):  439(112.431768):  : and you asked if it was newer?
+438(112.431761):  Pupsta437(112.431727):  436(105.717671):  
+435(105.713382):  
+434(81.085757):  : kitsune 2
+433(81.085749):  Rappoff432(81.085718):  431(73.264396):  m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+430(73.258138):  m_face->glyph->bitmap.width is 0 for ch:32 Liberation Sans
+429(56.867813):  : what is k2 
+428(56.867806):  Pupsta427(56.867772):  426(55.679497):  [2]	=	5
+425(55.679491):  		424(55.679485):  [1]	=	Player [17][Soders]
+423(55.679477):  		422(55.679469):  [1]:
+421(55.679458):  420(55.679400):  Welcome back MVP. Time flies when you're having fun, or banning people.
+419(55.678565):  Thu 13 Feb 2025 05:54:12 PM EST Got all chunks of item metadata!
+418(55.678556):  417(55.678464):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 6, items in chunk 33
+416(55.678450):  415(55.678128):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 5, items in chunk 100
+414(55.678083):  413(55.677722):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 4, items in chunk 100
+412(55.677713):  411(55.677494):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 3, items in chunk 100
+410(55.677484):  409(55.677229):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 2, items in chunk 100
+408(55.677215):  407(55.676801):  Thu 13 Feb 2025 05:54:12 PM EST Got item metadata from the server - expect 6 chunks , total chunks seen 1, items in chunk 99
+406(55.676766):  405(54.310234):  Redownloading all lightmaps
+404(54.305506):  Advanced Joystick settings initialized
+403(54.305501):  JOY_AXIS_V:  unmapped
+402(54.305497):  JOY_AXIS_U:  mapped to Turn (absolute)
+401(54.305493):  JOY_AXIS_R:  mapped to Look (absolute)
