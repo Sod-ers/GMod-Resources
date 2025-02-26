@@ -79,6 +79,7 @@ Below are a few notable image paths:
 | `<img path=icon16/rosette.png/>`                |
 | `<img path=icon16/ruby.png/>`                   |
 | `<img path=icon16/table_lightning.png/>`        |
+| `<img path=icon16/user.png/>`                   |
 | `<img path=icon16/user_gray.png/>`              |
 | `<img path=icon16/user_delete.png/>`            |
 | `<img path=icon16/group.png/>`                  |
