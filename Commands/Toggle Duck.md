@@ -23,3 +23,4 @@ alias duck_off "-duck; alias toggleduck duck_on"
 duck_off
 bind ctrl toggleduck
 ```
+5. Restart game or type `exec autoexec` in console to apply.
