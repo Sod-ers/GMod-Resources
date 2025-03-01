@@ -43,3 +43,4 @@
 | surf_toggle_speedo_colours 1              | Toggle speedometer colors.                                                                        |
 | surf_write_splits_to_file 1               | Writes the splits to a file.                                                                      |
 | surf_write_timeleft_file 1                | Writes the time left until next votemap to a file.                                                |
+| bb_surf_ahop_notify 0                     | Hide autohop notifications.                                                                       |
