@@ -44,13 +44,12 @@
 | surf_write_splits_to_file 1               | Writes the splits to a file.                                                                      |
 | surf_write_timeleft_file 1                | Writes the time left until next votemap to a file.                                                |
 | bb_surf_ahop_notify 0                     | Hide autohop notifications.                                                                       |
+| bb_chatbox_starting_message_alpha 127     | Sets the initial transparency / alpha of messages when they are first displayed.                  |
 
-
-| Command:                          | Description:                                           |
-| --------------------------------- | ------------------------------------------------------ |
-| bb_chatbox_starting_message_alpha |                                                        |
-| surf_speedo_hidespeedtext         | Allows you to hide the `Speed:` portion of the speedo. |
-| surf_timer_decimals               | Allows you to specify the decimals shown on the timer. |
-| surf_timer_backgroundenabled      | When enabled, allows you to hide the timer background. |
-| surf_speedo_decimals              | Change the amount of decimals that the speedo uses.    |
-| surf_speedo_backgroundenabled     | hide the background of the speedo.                     |
+| Command:                      | Description:                                           |
+| ----------------------------- | ------------------------------------------------------ |
+| surf_speedo_hidespeedtext     | Allows you to hide the `Speed:` portion of the speedo. |
+| surf_timer_decimals           | Allows you to specify the decimals shown on the timer. |
+| surf_timer_backgroundenabled  | When enabled, allows you to hide the timer background. |
+| surf_speedo_decimals          | Change the amount of decimals that the speedo uses.    |
+| surf_speedo_backgroundenabled | Hide the background of the speedo.                     |
