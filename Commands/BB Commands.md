@@ -45,6 +45,9 @@
 | surf_write_timeleft_file 1                | Writes the time left until next votemap to a file.                                                |
 | bb_surf_ahop_notify 0                     | Hide autohop notifications.                                                                       |
 | bb_chatbox_starting_message_alpha 127     | Sets the initial transparency / alpha of messages when they are first displayed.                  |
+| surf_finishzone_r 255                     | Red value for finish zone.                                                                        |
+| surf_finishzone_g 85                      | Green value for finish zone.                                                                      |
+| surf_finishzone_b 85                      | Blue value for finish zone.                                                                       |
 
 | Command:                      | Description:                                           |
 | ----------------------------- | ------------------------------------------------------ |
@@ -53,3 +56,4 @@
 | surf_timer_backgroundenabled  | When enabled, allows you to hide the timer background. |
 | surf_speedo_decimals          | Change the amount of decimals that the speedo uses.    |
 | surf_speedo_backgroundenabled | Hide the background of the speedo.                     |
+| surf_render_finishzone        | Hide finish zone.                                      |
