@@ -6,3 +6,6 @@
 - Nyx
 - Summit
 - Aser
+
+- Fortum - `+zoom` not working
+- Vegetables- Sometimes `+zoom` breaks
