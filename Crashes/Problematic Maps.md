@@ -8,4 +8,4 @@
 - Aser
 
 - Fortum - `+zoom` not working
-- Vegetables- Sometimes `+zoom` breaks
+- Vegetables - Sometimes `+zoom` breaks
