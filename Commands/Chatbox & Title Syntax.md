@@ -168,6 +168,7 @@ Below are a few notable image paths:
 ### Playermodel Icons:
 | Path:                                                                                     |
 | ----------------------------------------------------------------------------------------- |
+| `<img path=spawnicons/models/player/skeleton.png/>`                                       |
 | `<img path=spawnicons/models/animeworld/forest/zelda.png/>`                               |
 | `<img path=spawnicons/models/codbo/characters/viktorreznov_pm.png/>`                      |
 | `<img path=spawnicons/models/cyanblue/finalfantasy/aerith/aerith.png/>`                   |
