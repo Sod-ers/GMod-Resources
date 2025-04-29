@@ -1,7 +1,7 @@
 
 | Command:                        | Description:                                            |
 | ------------------------------- | ------------------------------------------------------- |
-| bind "v" "noclip"               | Bind noclip.                                            |
+| mat_reloadallmaterials          | Reload materials.                                       |
 | cl_drawhud 0                    | Hide HUD elements.                                      |
 | cl_playermodel barney           | Change playermodel.                                     |
 | cl_showfps 0                    | Hide fps.                                               |
