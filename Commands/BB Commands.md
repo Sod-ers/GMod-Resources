@@ -57,3 +57,4 @@
 | surf_speedo_decimals          | Change the amount of decimals that the speedo uses.    |
 | surf_speedo_backgroundenabled | Hide the background of the speedo.                     |
 | surf_render_finishzone        | Hide finish zone.                                      |
+| surf_speedo_outline_thickness | Change speedometer outline thickness.                  |
