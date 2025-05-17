@@ -58,3 +58,5 @@
 | surf_speedo_backgroundenabled | Hide the background of the speedo.                     |
 | surf_render_finishzone        | Hide finish zone.                                      |
 | surf_speedo_outline_thickness | Change speedometer outline thickness.                  |
+| surf_display_split_background | Toggle split background display.                       |
+| surf_votemap_timer_short      | Shows the votemap timer in a shorter format.           |
