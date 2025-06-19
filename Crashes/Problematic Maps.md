@@ -11,6 +11,7 @@
 **+Zoom bug:**
 - Fortum - `+zoom` not working
 - Vegetables - Sometimes `+zoom` breaks
+- Flow - Sometimes `+zoom` breaks
 
 **Reflections/Shadows:**
 - Lore
