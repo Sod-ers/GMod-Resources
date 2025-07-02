@@ -11,7 +11,7 @@
 | bb_chatbox_fontscale 0                    | Font does not scale with resolution.                                                              |
 | bb_chatbox_fontsize 25                    | Increases font size.                                                                              |
 | bb_chatbox_messagefade 7                  | Sets rate at which initial messages disappear.                                                    |
-| bb_chatbox_overlay_escmenu 1              | Chatbox overlays the esc menu.                                                                    |
+| bb_chatbox_overlay_escmenu 0              | Chatbox overlays the esc menu.                                                                    |
 | bb_chatbox_unlockposition 1/0             | Allows you to move the chatbox around the screen. Click & drag on the 'SAY:' text to move it.<br> |
 | bb_chatcolor 255 255 255                  | Changes chat text color.                                                                          |
 | bb_lotteryui                              | Access the lottery menu.                                                                          |
