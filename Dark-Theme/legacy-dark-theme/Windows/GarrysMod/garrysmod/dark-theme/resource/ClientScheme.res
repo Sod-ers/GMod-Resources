@@ -15,8 +15,8 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-		"Black"				"45 47 60 80"
-		"Gray"				"95 73 124 75"
+		"Black"				"46 43 42 255"
+		"Gray"				"178 178 178 255"
 		"Blank"				"0 0 0 0"
 	}
 
@@ -109,7 +109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
 				"antialias" "1"
@@ -120,7 +120,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
 				"antialias" "1"
@@ -132,7 +132,7 @@ Scheme
 		{
 			"21"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias" "1"
@@ -142,7 +142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Tahoma"
 				"tall"		"12"
 				"weight"	"700" // GMod: Changed from 500 to match Default
 				"underline" "1"
@@ -160,7 +160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -170,7 +170,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -270,7 +270,7 @@ Scheme
 
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"700"
 				"antialias" "1"
@@ -278,7 +278,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias" "1"
@@ -286,7 +286,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
@@ -294,7 +294,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"900"
 				"antialias" "1"
@@ -302,7 +302,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
@@ -326,7 +326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -337,7 +337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"1000"
 				"antialias" "1"
@@ -348,7 +348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"0"
 				"antialias" "1"
@@ -359,7 +359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"700"
 				"antialias" "1"
@@ -367,7 +367,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"antialias" "1"
@@ -375,7 +375,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"900"
 				"antialias" "1"
@@ -383,7 +383,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"900"
 				"antialias" "1"
@@ -391,7 +391,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"17"
 				"weight"	"1000"
 				"antialias" "1"
@@ -402,7 +402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -412,7 +412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -422,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Tahoma"
 				"tall"		"26"
 				"weight"	"500"
 			}
@@ -431,7 +431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Tahoma"
 				"tall"		"26"
 				"weight"	"500"
 				"italic"	"1"
@@ -441,7 +441,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Tahoma"
 				"tall"		"26"
 				"weight"	"900"
 			}
@@ -450,7 +450,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Tahoma"
 				"tall"		"26"
 				"weight"	"900"
 				"italic"	"1"
@@ -538,7 +538,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"900"
 				"antialias" "1"
@@ -585,7 +585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -593,7 +593,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -601,7 +601,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -609,7 +609,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"17"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -617,7 +617,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -629,7 +629,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -637,7 +637,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -645,7 +645,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -653,7 +653,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"17"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -661,7 +661,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -673,7 +673,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -681,7 +681,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -689,7 +689,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -697,7 +697,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -705,7 +705,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SF Pro"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -742,7 +742,6 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"1"		"resource/HL2MP.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
-		"3"		"resource/fonts/SF-Pro.ttf"
 	}
 
 	Borders

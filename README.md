@@ -5,7 +5,7 @@
 - ### [BB Tier List Maker](https://tiermaker.com/create/easy-surf-maps-17474064-3)
 ## Miscellaneous:
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
-- ### [Dark theme](https://github.com/Sod-ers/GMod-Resources/releases) - [(preview)](https://sod-ers.github.io/GMod-Resources/Dark-Theme/dark-theme-preview.png)
+- ### [Dark theme](https://github.com/Sod-ers/GMod-Resources/releases)
 - ### [Surf backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing) - place in ../garrysmod/backgrounds/
 - ### [GModContent.com](https://gmodcontent.com/) - I mount hl2ep1-content, hl2ep2-content, css-content, & tf2-content
 - ### [My surf configs](https://github.com/Sod-ers/GMod-Resources/tree/main/CFG)
@@ -24,4 +24,4 @@
 - ### [Change Default Chatbox Location](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Change%20default%20chatbox%20location.md)
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
-- ### Dark Theme: INsanes CSS HUD V6 modified by me
+- ### Legacy Dark Theme: INsanes CSS HUD V6 modified by me
