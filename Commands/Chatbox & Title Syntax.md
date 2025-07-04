@@ -47,6 +47,11 @@ Below are a few notable image paths:
 ### Misc:
 | Path:                                           |
 | ----------------------------------------------- |
+| `<img path=icon16/vcard.png/>`                  |
+| `<img path=icon16/tux.png/>`                    |
+| `<img path=icon32/hand_property.png/>`          |
+| `<img path=icon32/hand_point_180.png/>`         |
+| `<img path=icon32/hand_point_090.png/>`         |
 | `<img path=bb/chat/mvp.png/>`                   |
 | `<img path=bb/chat/bb_admin.png/>`              |
 | `<img path=bb/chat/plat.png/>`                  |
@@ -260,3 +265,4 @@ Below are a few notable image paths:
 | Other:                                                                                         |
 | ---------------------------------------------------------------------------------------------- |
 | HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA |
+| https://github.com/unknown-gd/gmod-icons/tree/main/                                            |
