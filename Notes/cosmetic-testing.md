@@ -2,4 +2,12 @@
 - surf_fruits
 - surf_lux
 - surf_me
-- gm_construct
+- surf_nyx (bright hdr)
+- surf_dragon (medium hdr)
+- surf_summer (smooth hdr)
+- surf_kepler (balanced hdr)
+- surf_ace (ldr)
+- surf_whiteout (ldr)
+- surf_cyberwave (ldr)
+- surf_anzchamps (ldr)
+- gm_construct (hdr)
