@@ -16,7 +16,7 @@ Scheme
 	Colors
 	{
 		"Black"				"45 47 60 80"
-		"Gray"				"34 35 90 75"
+		"Gray"				"95 73 124 75"
 		"Blank"				"0 0 0 0"
 	}
 

@@ -18,7 +18,7 @@ Scheme
 	{
 		// base colors
 		"test"					    "255 30 255 255"      //used to test only.
-		"Menu_INF_Background"       "34 35 90 75"         //Main panel "in focus" color, regard this as the Main color for BS's, it is what you see when clicking on a panel background. Make this lighter that the one below.
+		"Menu_INF_Background"       "95 73 124 75"         //Main panel "in focus" color, regard this as the Main color for BS's, it is what you see when clicking on a panel background. Make this lighter that the one below.
 		"Menu_OOF_Background"	    "45 47 60 80"         //Main panel "out of focus color" it will "fade" when you select another panel and is better being a darker, translucent color
 		"Menu_OOF_Text"	            "255 255 0 255"	      //245 245 245 150 Out of focus text color, like the panel, you want this a bit darker and more translucent
 		"Menu_Armed_BG"	            "68 71 90 200"	      //The backgound of "Armed" items
@@ -31,7 +31,7 @@ Scheme
 		"Menu_Highlight_Text"	    "255 255 0 255"	      //Highlight color for selected text
 		"Menu_Highlight_Text_BG"	"142 142 142 255"	  //Highlight background for selected text of the dropdown windows
 		"Menu_Con_Mess_Text"        "255 255 0 200"	      //Text color of the text you enter in console... then displayed in the console
-		"Menu_Con_Output_BG"        "17 17 45 75"	      //Background colour of output screens, console background
+		"Menu_Con_Output_BG"        "17 17 22 75"	      //Background colour of output screens, console background
 		"White"				        "255 255 255 200"
 		"OffWhite"			        "216 216 216 200"
 		"DullWhite"			        "142 142 142 200"
@@ -42,7 +42,7 @@ Scheme
 		"Blank"				        "0 0 0 0"
 
 		"SteamLightGreen"	        "255 255 255 200"     //Text color of the descriptions in the Achievement boxes
-		"AchievementsLightGrey"		"34 35 90 75"
+		"AchievementsLightGrey"		"95 73 124 75"
 		"AchievementsDarkGrey"		"45 47 60 80"
 		"AchievementsInactiveFG"	"255 255 255 200"
 	}
