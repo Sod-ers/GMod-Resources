@@ -2,7 +2,7 @@
 - surf_fruits
 - surf_lux
 - surf_me
- - gm_construct (basic hdr)
+- gm_construct (basic hdr)
 - surf_nyx (bright hdr)
 - surf_dragon (medium hdr)
 - surf_summer (smooth hdr)
