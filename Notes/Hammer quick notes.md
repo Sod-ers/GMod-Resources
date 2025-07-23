@@ -1,0 +1,6 @@
+- Apply skybox to all faces of brush, no draw rule doesn't apply.
+- Player spawn required for map compile (info_player_start).
+- Compile without VIS & RAD when testing leaks, faster.
+- ent_fire to troubleshoot entities.
+- mat_fullbright 2 useful for troubleshooting normal maps.
+- Any area that isn't black on the alpha will have the envmap specified by the VMT file applied to it.
