@@ -17,6 +17,9 @@
 - Lore
 - Whiteout
 - Utopia
+- Overgrowth (Maybe??)
+- Frost???
+- Try removing all cubemap content? (games, addons, workshop, materials folder).
 
 **CEF Upgrade:**
 - Idle crashes:
@@ -31,3 +34,10 @@
 	- Pantheon
 	- Gleam2
 	- Fortum
+
+**Missing Textures:**
+- surf_quickie (99% of map) (issue migrated to Linux only)
+- surf_vale2 (skybox) (Linux confirmed) (test on windows to confirm)
+
+**Console Errors:**
+- Remove de_nuke from gmodcontent css-content addons to satisify surf_summer.
