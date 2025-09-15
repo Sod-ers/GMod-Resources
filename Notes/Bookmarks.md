@@ -19,5 +19,6 @@
 | Examples of dynamic materials with proxies. | https://steamcommunity.com/sharedfiles/filedetails/?id=2914489775                                                                                            |
 | PAC3 Wiki.                                  | https://wiki.pac3.info/                                                                                                                                      |
 | x86-64 Beta fixes (Linux) guide.            | https://steamcommunity.com/sharedfiles/filedetails/?id=2838441015                                                                                            |
+| Redundant File Finder.                      | https://steamcommunity.com/sharedfiles/filedetails/?id=3517432900                                                                                            |
 
 
