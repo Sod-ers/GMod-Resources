@@ -26,5 +26,5 @@
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
 - ### [Animated GMod logo by Derpmii](https://www.steamgriddb.com/logo/44661)
-- ### JWalkerMailly's [Source - Github Theme](https://github.com/JWalkerMailly/Source-Github-Theme)& [Derma - Github Theme](https://github.com/JWalkerMailly/Derma-Github-Theme) modified by me
+- ### JWalkerMailly's [Source - Github Theme](https://github.com/JWalkerMailly/Source-Github-Theme) & [Derma - Github Theme](https://github.com/JWalkerMailly/Derma-Github-Theme) modified by me
 - ### Legacy Dark Theme: INsanes CSS HUD V6 modified by me
