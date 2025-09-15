@@ -3,6 +3,7 @@
 - ### [Hard Surf](https://sod-ers.github.io/GMod-Resources/PDF/Hard-Surf-Tier-List.pdf)
 - ### [Available on Google Sheets](https://drive.google.com/file/d/19Gswaf3n4u_rFd-MyshLehig_7JQXJx7/view?usp=sharing)
 - ### [BB Tier List Maker](https://tiermaker.com/create/easy-surf-maps-17474064-3)
+________________________________________________
 ## Miscellaneous:
 - ### [BB maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
 - ### [Dark theme](https://github.com/Sod-ers/GMod-Resources/releases) - [Preview](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/Dark%20Theme%20Previews.md)
@@ -15,6 +16,7 @@
 - ### [BB Tracker](https://github.com/Sod-ers/BB-Tracker) - Scripts to detect map changes at BB Game Servers
 - ### [GModPatchTool](https://github.com/solsticegamestudios/GModPatchTool) - Fixes Linux crashes
 - ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
+________________________________________________
 ## Tutorials:
 - ### [Toggle Duck](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Toggle%20Duck.md)
 - ### [Hide HUD](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Hide%20HUD.md)
@@ -23,6 +25,7 @@
 - ### [BB Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/BB%20Commands.md)
 - ### [Stellar Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Stellar%20Commands.md)
 - ### [Change Default Chatbox Location](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Change%20default%20chatbox%20location.md)
+________________________________________________
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
 - ### [Animated GMod logo by Derpmii](https://www.steamgriddb.com/logo/44661)
