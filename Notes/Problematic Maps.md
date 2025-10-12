@@ -40,4 +40,5 @@
 - surf_vale2 (skybox) (Linux confirmed) (test on windows to confirm)
 
 **Console Errors:**
-- Remove de_nuke from gmodcontent css-content addons to satisify surf_summer.
+- Remove /props/de_nuke/ models from gmodcontent css-content addons to satisfy surf_summer.
+- Remove /props/cs_militia/ models from gmodcontent css-content addons to satisfy surf_whiteout_v1_1.
