@@ -1,5 +1,6 @@
 ### Cosmetics & other:
-https://steamcommunity.com/sharedfiles/filedetails/?id=395367659
+https://steamcommunity.com/sharedfiles/filedetails/?id=395367659  
+https://item.tf/search/cosmetic  
 ### Weapons:
 **SCOUT**
 
