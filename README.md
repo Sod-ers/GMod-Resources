@@ -31,3 +31,5 @@ ________________________________________________
 - ### [Animated GMod logo by Derpmii](https://www.steamgriddb.com/logo/44661)
 - ### JWalkerMailly's [Source - Github Theme](https://github.com/JWalkerMailly/Source-Github-Theme) & [Derma - Github Theme](https://github.com/JWalkerMailly/Derma-Github-Theme) modified by me
 - ### Legacy Dark Theme: INsanes CSS HUD V6 modified by me
+- ### [SFMono-Regular](https://github.com/supercomputra/SF-Mono-Font) & [SF-Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) fonts by Apple
+- ### [PTMono-Regular](https://www.paratype.com/fonts/pt/pt-mono/regular) font by Paratype

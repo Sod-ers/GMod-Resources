@@ -26,3 +26,5 @@ Found a workaround, add a file named `sdkenginetools.txt` to `bin/x64/` with the
 }
 ```  
 [Making TF2 Effects #1 - The Starter Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2821189386)  
+[Making TF2 Effects #3 - Files O' Plenty](https://steamcommunity.com/sharedfiles/filedetails/?id=2954928838)  
+[Unusual Particle Filenames](https://steamcommunity.com/sharedfiles/filedetails/?id=187038852)  

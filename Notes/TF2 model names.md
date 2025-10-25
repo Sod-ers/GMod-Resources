@@ -1,6 +1,7 @@
 ### Cosmetics & other:
 https://steamcommunity.com/sharedfiles/filedetails/?id=395367659  
 https://item.tf/search/cosmetic  
+[Unusual Particle Filenames](https://steamcommunity.com/sharedfiles/filedetails/?id=187038852)  
 ### Weapons:
 **SCOUT**
 
