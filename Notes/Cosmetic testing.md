@@ -10,4 +10,4 @@
 - surf_ace (ldr)
 - surf_whiteout (ldr)
 - surf_cyberwave (ldr)
-- surf_anzchamps (ldr)
+- surf_anzchamps (ldr) (z-fighting increases)

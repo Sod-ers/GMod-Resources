@@ -13,4 +13,5 @@
 // "$lightwarptexture" "models/lightwarps/hand_lightwarp"
 // "$lightwarptexture" "models/player/demo/hwn_demo_lightwarp"
 // "$lightwarptexture" "models/player/shared/ice_player_lightwarp"
+// "$lightwarptexture" "models/player/shared/shared_normal"
 ```

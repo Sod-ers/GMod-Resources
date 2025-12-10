@@ -42,3 +42,6 @@
 **Console Errors:**
 - Remove /props/de_nuke/ models from gmodcontent css-content addons to satisfy surf_summer.
 - Remove /props/cs_militia/ models from gmodcontent css-content addons to satisfy surf_whiteout_v1_1.
+  
+  **Misc:**
+  - surf_squirrelsonvacation CPU intensive.
