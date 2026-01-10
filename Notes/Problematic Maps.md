@@ -9,9 +9,9 @@
 - Aser
 
 **+Zoom bug:**
-- Fortum - `+zoom` not working
+- Fortum - `+zoom` always breaks
+- Flow - Often `+zoom` breaks
 - Vegetables - Sometimes `+zoom` breaks
-- Flow - Sometimes `+zoom` breaks
 
 **Reflections/Shadows:**
 - Lore
@@ -45,3 +45,4 @@
   
   **Misc:**
   - surf_squirrelsonvacation CPU intensive.
+  - Z-fighting intesifies in large multiplayer environments.
