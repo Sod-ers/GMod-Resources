@@ -75,8 +75,11 @@
 | [How to make your maps look better](https://youtu.be/u8pv5poNPVo)                                                                    |
 | [These features change the game for Source Engine map creating - Hammer++ overview](https://youtu.be/3xDMWMPxMO0)                    |
 | [TopHATTwaffle's water slideshow (list of water textures)](https://youtu.be/oK8wu11o5HY)                                             |
+| [Making particles tutorial](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Making%20Particles.md)                         |
 | [Make a TF2 unusual effect - EP #1](https://youtu.be/0hmNphiP7hA)                                                                    |
 | [Make a TF2 unusual effect - EP #2](https://youtu.be/EkUdsTuWNuU)                                                                    |
 | [Creating unusuals: part one](https://youtu.be/IlIjZiF4K68)                                                                          |
 | [Creating unusuals: the basics](https://youtu.be/LgyYIKdZ09M)                                                                        |
+| [Making TF2 Effects #1 - The Starter Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2821189386)                       |
+| [Making TF2 Effects #3 - Files O' Plenty](https://steamcommunity.com/sharedfiles/filedetails/?id=2954928838)                         |
 | [Collection of fixes for Linux x86-64](https://steamcommunity.com/sharedfiles/filedetails/?id=2838441015)                            |
