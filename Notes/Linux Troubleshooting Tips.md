@@ -1,0 +1,3 @@
+- Crashing upon loading game: Validate all installed Source Engine games. Possible corruption while loading .vpk files from mounted games.
+- If /home/ partition is encrypted, the length of the path for some addons is too long & OS refuses to save it. Moving Steam Library to /opt/ or /mnt/ will fix the input/output error.
+- Nvidia drivers 580 & 550 known working. 570 had issues.

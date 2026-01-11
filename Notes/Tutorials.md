@@ -8,7 +8,7 @@
 | [Fix leaks](https://www.tophattwaffle.com/faq/what-is-a-leak-and-how-do-i-fix-it/)                                           |
 | [Building cubemaps](https://steamcommunity.com/sharedfiles/filedetails/?id=861820969)                                        |
 | [Pack content with VIDE](https://www.tophattwaffle.com/packing-custom-content-using-vide-in-steampipe/)                      |
-| [How to use PAC3 editor](https://youtu.be/F0vfwc0fMbA)                                                                       |
+| [Using PAC3 editor](https://youtu.be/F0vfwc0fMbA)                                                                            |
 ### Maybe Useful:
 | Tutorial:                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -46,6 +46,10 @@
 | [Making props for Source Engine](https://youtu.be/EozQ2OIiafo)                                                                       |
 | [Creating a material](https://developer.valvesoftware.com/wiki/Creating_a_Material)                                                  |
 | [Dynamic materials with proxies](https://steamcommunity.com/sharedfiles/filedetails/?id=2914489775)                                  |
+| [RNG in 10 seconds (for modders)](https://steamcommunity.com/sharedfiles/filedetails/?id=2389582650)                                 |
+| [Material proxies for modders: part 1: basics](https://steamcommunity.com/sharedfiles/filedetails/?id=594255575)                     |
+| [Material proxies for modders: part 2: RNG](https://steamcommunity.com/sharedfiles/filedetails/?id=668958242)                        |
+| [List of all VMT shaders & parameters](https://steamcommunity.com/sharedfiles/filedetails/?id=2162570606)                            |
 | [Animated VTF from video/gif](https://youtu.be/yk8CDVedPsA)                                                                          |
 | [Hammer tutorial #14 "advanced textures & transparent textures"](https://youtu.be/oNBcVQ9WB0M)                                       |
 | [Create transparent textures](https://youtu.be/r2IVlytbqe4)                                                                          |
