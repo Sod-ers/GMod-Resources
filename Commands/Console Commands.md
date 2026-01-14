@@ -19,3 +19,4 @@
 | sv_noclipduringpause 1                                            | If cheats are enabled, then you can noclip with the game paused (for doing screenshots, etc.). |
 | unpause                                                           | Unpause the game.                                                                              |
 | pause                                                             | Toggle the server pause state.                                                                 |
+| r_lod 0<br>r_rootlod -10                                          | Force highest quality models at all times aka disable LOD.                                     |

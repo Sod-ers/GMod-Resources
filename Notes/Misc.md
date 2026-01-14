@@ -1,0 +1,1 @@
+Steam Workshop rejects .sw.vtx files
