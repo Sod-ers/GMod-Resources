@@ -4,3 +4,4 @@
 - ent_fire to troubleshoot entities.
 - mat_fullbright 2 useful for troubleshooting normal maps.
 - Any area that isn't black on the alpha will have the envmap specified by the VMT file applied to it.
+- -verbose to see statistics.
