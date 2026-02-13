@@ -2,6 +2,7 @@
 | Addon:                                                                                            | Description:                                                                                                |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [[STool] GParticles](https://steamcommunity.com/sharedfiles/filedetails/?id=3021209695)           | View any particle that's installed in your game & spawn it without needing to find the particle definition. |
+| [dirtman_skies](https://drive.google.com/drive/folders/1Bxn4_gyNMtPG6KEgr2bCDTXjnKyn-K9S)         | Skyboxes.                                                                                                   |
 | [Enhanced Eyeposer](https://steamcommunity.com/sharedfiles/filedetails/?id=3622263675)            | More compatible eye poser.                                                                                  |
 | [Hat Painter & Crit Glow Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=135491961) | Adds paint to cosmetics.                                                                                    |
 | [Model Textures Viewer](https://steamcommunity.com/sharedfiles/filedetails/?id=3650401968)        | Tiny spawnmenu util, click rmb on any model to inspect textures.                                            |

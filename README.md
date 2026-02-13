@@ -22,6 +22,7 @@ ________________________________________________
 - ### [BB Paint Color Codes](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/BB%20Paints.md)
 - ### [Hammer Keyboard Shortcuts](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Hammer%20shortcuts.md)
 - ### [Hammer/Blender Tutorials](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Tutorials.md)
+- ### [Bookmarks](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Bookmarks.md)
 - ### [Toggle Duck](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Toggle%20Duck.md)
 - ### [Hide HUD](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Hide%20HUD.md)
 - ### [Chatbox & Title Syntax](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Chatbox%20%26%20Title%20Syntax.md)

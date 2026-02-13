@@ -12,11 +12,14 @@
 ### Maybe Useful:
 | Tutorial:                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Hammer manual configuration](https://developer.valvesoftware.com/wiki/Hammer_Manual_Configuration)                                  |
 | [Hammer++ installation (Garry's Mod, CSS, TF2 etc)](https://youtu.be/IdvV1CZtg0M)                                                    |
 | [List of Source modding tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3145444528)                                    |
 | [List of third party tools](https://developer.valvesoftware.com/wiki/Third_Party_Tools)                                              |
+| [List of third party tools 2](https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools)                                   |
 | [Disable VIS allows leaking map to compile](https://www.reddit.com/r/hammer/comments/1cdwcav/command_failed_with_return_code_0x1/)   |
 | [Man vs. Engine optimization guide](https://filecache41.gamebanana.com/bitpit/man_vs_engine.pdf)                                     |
+| [Optimization in Source: a practical demonstration](https://nodraw.net/2009/12/optimization-in-source-a-practical-demonstration/)    |
 | [Optimizing an open map in Source Engine](https://www.mapcore.org/articles/development/optimizing-an-open-map-in-source-engine-r88/) |
 | [Optimizing portals](https://youtu.be/qrKjmqD8NlA)                                                                                   |
 | [Visleafs explained](https://youtu.be/T4qtY9FMpzU)                                                                                   |
@@ -83,3 +86,5 @@
 | [Making TF2 Effects #1 - The Starter Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2821189386)                       |
 | [Making TF2 Effects #3 - Files O' Plenty](https://steamcommunity.com/sharedfiles/filedetails/?id=2954928838)                         |
 | [Collection of fixes for Linux x86-64](https://steamcommunity.com/sharedfiles/filedetails/?id=2838441015)                            |
+| [3D text into Source Engine](https://www.youtube.com/watch?v=nxizaoknKiw)                                                            |
+| [Scott and Jennifer Myers Hammer tutorials](https://www.youtube.com/channel/UCNesFGRq481XpyFqUWn967Q)                                |
