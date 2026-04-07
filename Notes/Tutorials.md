@@ -88,4 +88,6 @@
 | [Collection of fixes for Linux x86-64](https://steamcommunity.com/sharedfiles/filedetails/?id=2838441015)                            |
 | [3D text into Source Engine](https://www.youtube.com/watch?v=nxizaoknKiw)                                                            |
 | [Scott and Jennifer Myers Hammer tutorials](https://www.youtube.com/channel/UCNesFGRq481XpyFqUWn967Q)                                |
+| [UEAKCrash tutorials](https://www.youtube.com/channel/UCQau-O2C0kGJpR3_CHBTGbw)                                                      |
 | [How to get hammer++ running on linux (gmod)](https://youtu.be/3_ATp9nJvE8)                                                          |
+| [Source SDK: Extract custom assets from Steam Workshop](https://youtu.be/JSy6wRP2pl8)                                                |

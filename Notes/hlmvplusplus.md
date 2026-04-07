@@ -1,0 +1,1 @@
+- Materials must be in the addons folder of the same game hlmv++ is installed to fix missing textures. Models can be loaded from anywhere.

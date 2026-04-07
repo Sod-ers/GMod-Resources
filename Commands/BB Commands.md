@@ -50,6 +50,11 @@
 | surf_finishzone_b 85                       | Blue value for finish zone.                                                                       |
 | bb_inventory_pagination_enabled 1          | Enable or disable pagination in the inventory.                                                    |
 | bb_inventory_pagination_items_per_page 200 | How many items to show per page in the inventory.                                                 |
+| bb_cache_itemimages_timeout 29             | The time in seconds before we stop attempting to precache item icons.                             |
+| bb_cache_itemimages_usemips 1              | Whether or not we should use mipmaps for item icons.                                              |
+| bb_item_minimal 0                          | Has the Item listings use a more minimal version instead of full icons.                           |
+| bb_modelimage_editor_debug 1               | Enable model viewer access.                                                                       |
+| bb_modelimage_rerender_store_item_icons    |                                                                                                   |
 
 | Command:                      | Description:                                           |
 | ----------------------------- | ------------------------------------------------------ |

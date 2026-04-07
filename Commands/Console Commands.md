@@ -7,10 +7,12 @@
 | cl_showfps 0                                                      | Hide fps.                                                                                      |
 | con_logfile log.txt<br>developer 1<br>developer 2<br>developer 3  | Diagnose map problems.                                                                         |
 | differences                                                       | Show all convars which are not at their default values.                                        |
+| ent_create npc_gman                                               | Example spawning npc.                                                                          |
 | ent_remove_all trigger_teleport                                   | Removes map triggers.                                                                          |
 | exec config_default                                               | Apply default settings.                                                                        |
 | mat_fullbright 1                                                  | Enables self-illumination for geometry.                                                        |
 | mat_reloadallmaterials                                            | Reload materials.                                                                              |
+| mat_specular 0                                                    | Fix rainbow issues on some maps/Linux.                                                         |
 | pause                                                             | Toggle the server pause state.                                                                 |
 | r_lod 0<br>r_rootlod -10                                          | Force highest quality models at all times aka disable LOD.                                     |
 | restart                                                           | Restart the game on the same level (add setpos to jump to current view position on restart).   |
