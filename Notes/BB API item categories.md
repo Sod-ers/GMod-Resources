@@ -3,7 +3,6 @@
 | ------------------------- | ------ |
 | Head                      | 1      |
 | Face                      | 2      |
-| Unknown                   | 3      |
 | Arms/Hands                | 4      |
 | Chest                     | 8      |
 | Legs/Feet                 | 16     |

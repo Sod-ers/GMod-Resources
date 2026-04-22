@@ -1,7 +1,7 @@
-256 transparent screenshot
-**Item Name**
-0,000 tris
-Features listed here
+256 transparent screenshot  
+**Item Name**  
+0,000 tris  
+Features listed here  
 ```
 "name": "Item Name",
 "desc": "Text goes here (Designed by Soders)",
@@ -13,6 +13,6 @@ Features listed here
 "canPaint": true,
 "dropChance": 0
 ```
-Zip goes here
-Painted screenshots
-In-game screenshots
+Zip goes here  
+Painted screenshots  
+In-game screenshots  

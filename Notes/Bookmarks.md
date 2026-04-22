@@ -4,6 +4,7 @@
 | [BSPSource](https://github.com/ata4/bspsrc)                                                 | Map decompiler for Source Engine.                                                                                            |
 | [BspZipGUI](https://github.com/Moltard/BspZipGUI)                                           | Tool to pack BSP.                                                                                                            |
 | [CompilePal](https://github.com/ruarai/CompilePal)                                          | Decompile, compile, & view GoldSource & Source models in a convenient interface.                                             |
+| [Cpt. Yoofer's Source Tool Icon Reskin Pack](https://gamebanana.com/mods/667044)            | GCFSguy in high fidelity.                                                                                                    |
 | [Crowbar](https://steamcommunity.com/groups/CrowbarTool)                                    | Easy to use wrapper for map compiling tools.                                                                                 |
 | [Crowbar Fork](https://github.com/Pollux12/Crowbar)                                         | Bug fix, CLI support, minor fixes.                                                                                           |
 | [Cubemaker](https://github.com/bottiger1/Cubemaker)                                         | Converts Valve skybox textures to a single cubemap texture that can be applied to a func_brush to act exactly like a skybox. |
@@ -25,6 +26,8 @@
 | [PBR-2-Source](https://github.com/koerismo/PBR-2-Source)                                    | Python-powered gui for converting pbr materials into Source Engine-compatible materials.                                     |
 | [QVTF++](https://github.com/craftablescience/qvtfpp)                                        | QImageIO plugin to load VTF textures.                                                                                        |
 | [RectMaker](https://github.com/cplbradley/RectMaker)                                        | Create & modify .rect files.                                                                                                 |
+| [Source Audio Converter](https://gamebanana.com/tools/22325)                                | Convert any audio file into either mp3 or wav & convert the sample rate to 44100khz.                                         |
+| [Source Duplicate Cleaner](https://gamebanana.com/tools/21304)                              | Remove default assets from your cstrike/custom folder.                                                                       |
 | [Source Engine BSP Lightmap Editor](https://github.com/fml42/sourcelightmap)                | Lightmap editor.                                                                                                             |
 | [Source Engine BSP Lightmap Editor (Fork)](https://github.com/rtldg/sourcelightmap)         | Lightmap editor (FORK FOR ADDING RIGHT-CLICKING TO EDIT QUICKLY).                                                            |
 | [source_blend](https://github.com/phenolophthaleinum/source_blend)                          | Tool to create blendmodulate textures for Source Engine faster.                                                              |
@@ -42,4 +45,5 @@
 | [VTFEdit](https://gamebanana.com/tools/95)                                                  | Can open & save .vtf & .vmt files.                                                                                           |
 | [VTFEdit-Reloaded](https://github.com/Sky-rym/VTFEdit-Reloaded)                             | Fork of [VTFLib](https://developer.valvesoftware.com/wiki/VTFLib).                                                           |
 | [VTFeter](https://github.com/gonzalologorg/VTFeter)                                         | Converts to VTF/VMT automatically.                                                                                           |
+| [XBLAH's Modding Tool](https://xblah.dev/modding-tool/about)                                | Integrated Development Environment to improve modders productivity & quality of life.                                        |
 
