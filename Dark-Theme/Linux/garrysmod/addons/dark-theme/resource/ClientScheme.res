@@ -18,6 +18,13 @@ Scheme
 		"Black"				"45 47 60 80"
 		"Gray"				"95 73 124 75"
 		"Blank"				"0 0 0 0"
+        "TransparentBlack"	"0 0 0 128"
+		"White"				"255 255 255 255"
+		"OffWhite"			"221 221 221 255"
+		"DullWhite"			"190 190 190 255"
+	    "GMod_BG_Opaque"	"108 111 114 250"
+		"GMod_BG"			"108 111 114 0" // SRCDS cannot do transparency, so we gotta replace Blank with this.
+		"GMod_WhiteBlank"	"255 255 255 0"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -31,6 +38,10 @@ Scheme
 
 		"Panel.FgColor"			"255 220 0 255"
 		"Panel.BgColor"			"Blank"
+
+		// GMOD: Since above alphas are set to 255, create new vars for HL2 HUD
+		"FgColorHud"		"255 220 0 220"
+		"BgColorHud"		"0 0 0 90"
 
 		"BrightFg"		"255 220 0 255"
 
@@ -96,6 +107,18 @@ Scheme
 		Slider.TrackColor			"31 31 31 255"
 		Slider.DisabledTextColor1	"117 117 117 255"
 		Slider.DisabledTextColor2	"30 30 30 255"
+
+
+		ProgressBar.FgColor				"White"
+		ProgressBar.BgColor				"TransparentBlack"
+
+		Label.TextDullColor				"DullWhite"
+		Label.TextColor					"OffWhite"
+		Label.TextBrightColor			"White"
+		Label.SelectedTextColor			"White"
+		Label.BgColor					"GMod_BG"
+		Label.DisabledFgColor1			"110 110 110 255"
+		Label.DisabledFgColor2			"50 50 50 255"
 	}
 
 	//////////////////////// FONTS /////////////////////////////
@@ -130,7 +153,7 @@ Scheme
 		// if a font fails to load then the subsequent fonts will replace
 		Default
 		{
-			"21"
+			"1"
 			{
 				"name"		"SF Pro"
 				"tall"		"12"
@@ -306,7 +329,17 @@ Scheme
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
-				"yres"	"1200 10000"
+				"yres"	"1201 1600"
+				"additive"	"1"
+			}
+			"6"
+			{
+				"name"		"SF Pro"
+				"tall"		"40"
+				"weight"	"900"
+				"antialias" "1"
+				"yres"	"1601 10000"
+
 				"additive"	"1"
 			}
 		}
@@ -395,7 +428,15 @@ Scheme
 				"tall"		"17"
 				"weight"	"1000"
 				"antialias" "1"
-				"yres"	"1200 10000"
+				"yres"	"1201 1440"
+			}
+			"6"
+			{
+				"name"		"SF Pro"
+				"tall"		"28"
+				"weight"	"1000"
+				"antialias" "1"
+				"yres"	"1441 10000"
 			}
 		}
 		BudgetLabel
@@ -454,6 +495,20 @@ Scheme
 				"tall"		"26"
 				"weight"	"900"
 				"italic"	"1"
+				"antialias"	"1"
+			}
+		}
+		"CloseCaption_Small"
+		{
+			"1"
+			{
+				"name"		"Tahoma" [!$OSX]
+				"name"		"Verdana" [$OSX]
+				"tall"		"16" [!$OSX]
+				"tall"		"14" [$OSX]
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias"	"1"
 			}
 		}
 		// this is the symbol font
