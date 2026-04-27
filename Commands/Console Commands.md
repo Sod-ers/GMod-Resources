@@ -14,6 +14,7 @@
 | mat_reloadallmaterials                                            | Reload materials.                                                                              |
 | mat_specular 0                                                    | Fix rainbow issues on some maps/Linux.                                                         |
 | pause                                                             | Toggle the server pause state.                                                                 |
+| r_cleardecals                                                     | Remove decals.                                                                                 |
 | r_lod 0<br>r_rootlod -10                                          | Force highest quality models at all times aka disable LOD.                                     |
 | restart                                                           | Restart the game on the same level (add setpos to jump to current view position on restart).   |
 | sbox_weapons 0                                                    | Remove all weapons.                                                                            |
