@@ -47,6 +47,7 @@ Below are a few notable image paths:
 ### Misc:
 | Path:                                           |
 | ----------------------------------------------- |
+| `<img path=sprites/obsolete/>`                  |
 | `<img path=icon16/vcard.png/>`                  |
 | `<img path=icon16/tux.png/>`                    |
 | `<img path=icon32/hand_property.png/>`          |

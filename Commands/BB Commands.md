@@ -53,29 +53,32 @@
 | bb_cache_itemimages_timeout 29             | The time in seconds before we stop attempting to precache item icons.                             |
 | bb_modelimage_editor_debug 1               | Enable model viewer access.                                                                       |
 
-| Command:                                                            | Description:                                                                                    |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| surf_speedo_hidespeedtext                                           | Allows you to hide the `Speed:` portion of the speedo.                                          |
-| surf_timer_decimals                                                 | Allows you to specify the decimals shown on the timer.                                          |
-| surf_timer_backgroundenabled                                        | When enabled, allows you to hide the timer background.                                          |
-| surf_speedo_decimals                                                | Change the amount of decimals that the speedo uses.                                             |
-| surf_speedo_backgroundenabled                                       | Hide the background of the speedo.                                                              |
-| surf_render_finishzone                                              | Hide finish zone.                                                                               |
-| surf_speedo_outline_thickness                                       | Change speedometer outline thickness.                                                           |
-| surf_display_split_background                                       | Toggle split background display.                                                                |
-| surf_votemap_timer_short                                            | Shows the votemap timer in a shorter format.                                                    |
-| bb_cache_itemimages_usemips 1                                       | Whether or not we should use mipmaps for item icons.                                            |
-| bb_item_minimal 0                                                   | Has the Item listings use a more minimal version instead of full icons.                         |
-| bb_modelimage_rerender_store_item_icons                             | -                                                                                               |
-| surf_replay_disable_sys_messages 1                                  | Toggle replay system messages in chat, such as 'this run is eligible to be recorded' and so on. |
-| surf_speedsound 0                                                   | Enable or disable the speed sound effect.                                                       |
-| surf_speedsound_max 0                                               | Maximum velocity for the speed sound effect. When 0, default to sv_maxvelocity.                 |
-| surf_speedsound_min_velocity 280                                    | Minimum velocity required to trigger the speed sound effect.                                    |
-| surf_speedsound_path Canals.d1_canals_01_combine_shield_touch_loop1 | Path to the speed sound effect.                                                                 |
-| surf_speedsound_volume 0.300000                                     | Volume of the speed sound effect.                                                               |
-| bb_decals_bind 30                                                   | -                                                                                               |
-| bb_decals_enabled 0                                                 | -                                                                                               |
-| bb_decals_play_place_sound 1                                        | -                                                                                               |
-| bb_decals_selected 1                                                | -                                                                                               |
-| bb_decals_show_owners 1                                             | -                                                                                               |
+| Command:                                                            | Description:                                                                                                               |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| surf_speedo_hidespeedtext                                           | Allows you to hide the `Speed:` portion of the speedo.                                                                     |
+| surf_timer_decimals                                                 | Allows you to specify the decimals shown on the timer.                                                                     |
+| surf_timer_backgroundenabled                                        | When enabled, allows you to hide the timer background.                                                                     |
+| surf_speedo_decimals                                                | Change the amount of decimals that the speedo uses.                                                                        |
+| surf_speedo_backgroundenabled                                       | Hide the background of the speedo.                                                                                         |
+| surf_render_finishzone                                              | Hide finish zone.                                                                                                          |
+| surf_speedo_outline_thickness                                       | Change speedometer outline thickness.                                                                                      |
+| surf_display_split_background                                       | Toggle split background display.                                                                                           |
+| surf_votemap_timer_short                                            | Shows the votemap timer in a shorter format.                                                                               |
+| bb_cache_itemimages_usemips 1                                       | Whether or not we should use mipmaps for item icons.                                                                       |
+| bb_item_minimal 0                                                   | Has the Item listings use a more minimal version instead of full icons.                                                    |
+| bb_modelimage_rerender_store_item_icons                             | -                                                                                                                          |
+| surf_replay_disable_sys_messages 1                                  | Toggle replay system messages in chat, such as 'this run is eligible to be recorded' and so on.                            |
+| surf_speedsound 0                                                   | Enable or disable the speed sound effect.                                                                                  |
+| surf_speedsound_max 0                                               | Maximum velocity for the speed sound effect. When 0, default to sv_maxvelocity.                                            |
+| surf_speedsound_min_velocity 280                                    | Minimum velocity required to trigger the speed sound effect.                                                               |
+| surf_speedsound_path Canals.d1_canals_01_combine_shield_touch_loop1 | Path to the speed sound effect.                                                                                            |
+| surf_speedsound_volume 0.300000                                     | Volume of the speed sound effect.                                                                                          |
+| bb_decals_bind 30                                                   | -                                                                                                                          |
+| bb_decals_enabled 0                                                 | -                                                                                                                          |
+| bb_decals_play_place_sound 1                                        | -                                                                                                                          |
+| bb_decals_spray_sound player/sprayer.wav                            | -                                                                                                                          |
+| bb_decals_selected 1                                                | -                                                                                                                          |
+| bb_decals_show_owners 1                                             | -                                                                                                                          |
+| bb_webapi_debug_errors 1                                            | Prints out API errors to the console for debugging purposes.                                                               |
+| surf_alternative_flashlight_skybox_textures 1                       | When enabled uses alternative skybox textures that are less prone to flickering when the fullbright flashlight is enabled. |
 
