@@ -1,0 +1,134 @@
+// VMT Template v1.0 2026-07-27
+// Created by Soders
+// Sources:
+// https://developer.valvesoftware.com/wiki/
+// https://github.com/BobmacU/Gmod-Model-Port-Template/blob/main/VMT%20%26%20Shaders/Material%20template%20-%20Explanation.vmt
+// https://github.com/yogensia/vmt-parameters/blob/master/vmt-shader-reference.md
+// https://steamcommunity.com/sharedfiles/filedetails/?id=2162570606
+
+"VertexLitGeneric"                                              // Shader: https://developer.valvesoftware.com/wiki/Category:Shaders
+{
+// Texture
+
+    "$basetexture"                  "path/to/vtf"               // Path to Diffuse Texture (also known as Albedo)
+	"$bumpmap"                      "path/to/vtf"               // Path to Normal map
+	"$lightwarptexture"             "models/player/pyro/pyro_lightwarp" // Wearables usually use this lightwarp
+                                                                // Weapons usually use this lightwarp: "models/lightwarps/weapon_lightwarp"
+                                                                // Weapons are the more custom case, so we'll default to a good wearable lightwarp
+
+// Detail
+
+	"$detail"                       "path/to/vtf"               // Path to a texture to blend with $basetexture
+	"$detailscale"                  "1.00"                      // Scale of detail texture, allows tiling, & gives the impression of higher resolution
+    //"$detailtexturetransform"     "center .5 .5 scale 1 1 rotate 0 translate 0 0" // Transforms $detail
+	"$detailblendfactor"            "1.00"                      // 0-1 Opacity/intensity of detail texture
+	"$detailblendmode"              "2"                         // Type of blend mode to use when combining with $basetexture, (0-11)
+                                                                // https://developer.valvesoftware.com/wiki/$detail#$detailblendmode
+
+// Decals & Culling
+
+    "$surfaceprop"                  "metal"                     // Defines material type, affecting physical properties, sounds & bullet decals
+                                                                // https://developer.valvesoftware.com/wiki/Material_surface_properties
+
+	//"$nodecal"                    "1"                         // Stops applying bloods & other decals on this texture, Must use on high-poly models to prevent lags
+	//"$nocull"                     "1"                         // Disable Backface Culling, use if $translucent causes only one-side to render
+
+// Phong-lighting
+
+	"$phong"                        "1"                         // Enable Phong-lighting
+	"$phongexponenttexture"	        "path/to/vtf"               // Path to Phong exponent mask
+	"$phongexponent"                "25"                        // Tightness of Phong highlight
+                                                                // Warning: This parameter will override $phongexponenttexture completely, & value should not exceed 150
+
+	"$phongexponentfactor"	        "1.00"                      // Multiplier for Phong exponent
+	"$phongboost"                   "0.10"                      // Increases Phong intensity
+	"$phongfresnelranges"           "[.25 .5 1]"                // Brightness of Phong highlight depending on the angle of incidence relative to player viewpoint, default is "[0 0.5 1]"
+    //"$phongtint"                  "[0 0 0]"                   // Color of Phong highlight
+	//"$basemapalphaphongmask"	    "1"                         // Forces Phong mask to be read from the $basetexture alpha channel
+    //"$phongalbedotint"            "1"                         // Tints Phong reflection by the color of $basetexture
+    //"$phongdisablehalflambert"    "1"                         // Disables half-lambertian shading
+    //"$bumpmapalphaphongmask"      "1"                         // By default, the Normal map alpha channel is used as Phong mask
+
+// Rim-lighting
+
+    "$rimlight"                     "1"                         // Enable Rim-lighting (requires Phong)
+	"$rimlightexponent"             "4"                         // Width of Rim highlight
+	"$rimlightboost"                "2.00"                      // Increases Rim Light intensity
+	//"$rimmask"				    "1"                         // Masks Rim Light with alpha channel of $phongexponenttexture
+	//"$halflambert"			    "1"                         // Softens diffuse shading, results in lower contrast on side of the model that's facing away from light
+                                                                // Useful in specific cases, for example trying to simulate materials like skin or wax
+
+// Cubemap
+
+	"$envmap"						"env_cubemap"               // Render environment reflections on the material, different cubemaps enhance the effect
+	"$envmaptint"					"[1 1 1]"                   // Tints environment reflections color
+    //"$envmapcontrast"             "1.00"                      // 0-1 Contrast of the reflection
+	//"$envmapsaturation"           "[.25 .5 1]"                // Color saturation of the reflection
+    //"$envmaplightscaleminmax"     "[0 1]"                     // Thresholds for the lightmap reflection tinting effect
+    //"$envmapmask"                 "path/to/vtf"               // Specular mask which affects how strongly each pixel of a material reflects light from $envmap
+                                                                // The mask should be a grayscale image in which entirely reflective areas are white & entirely matte areas are black
+
+    //"$envmapmaskscale"            "1.00"                      // Scales $envmapmask
+    //"$envmapmasktransform"        "center .5 .5 scale 1 1 rotate 0 translate 0 0" // Transforms $envmapmask
+	//"$basealphaenvmapmask"		"1"                         // Forces environment reflections mask to be read from $basetexture alpha channel
+	//"$normalmapalphaenvmapmask"	"1"                         // Forces environment reflections mask to be read from $bumpmap alpha channel
+
+
+// Alpha & Translucent, Use "$translucent" for most situation. Use "$alphatest" if "$translucent" have issues.
+
+	//"$translucent"                "1"                         // Makes material partially see-through, uses alpha channel
+	//"$alphatest"                  "1"                         // Use $alphatest instead of $translucent when there's issues
+                                                                // $alphatest drastically lowers quality, will also cast flashlight shadows unlike translucents
+
+	//"$allowalphatocoverage"       "1"                         // Improves look of alpha-tested materials when using multisampling anti-aliasing (MSAA)
+                                                                // Requires $alphatest to be enabled
+
+// Self-Illumination
+
+    "$selfillum"	                "1"                         // Enables Self-Illumination
+                                                                // The alpha channel in $basetexture is used as a mask to determine intensity Self-Illumination
+
+	"$selfillumtint"	            "[1 1 1]"                   // Tints color of Self-Illumination
+	"$selfillummask"	            "path/to/vtf"               // Defines a custom Self-Illumination mask
+                                                                // This mask can contain color information, which will be used to determine color of the glow
+                                                                // Brighter colors in the texture will glow with more intensity
+
+// Emissive Blend
+
+    //"$EmissiveBlendEnabled" 		"1"					        // Enables the effect
+    //"$EmissiveBlendStrength" 		"1.00" 					    // 0-1 Opacity/intensity of glow
+    //"$EmissiveBlendTexture" 		"path/to/vtf"			    // Texture that scrolls by based on the flowmap & scrolling speed parameter. Not mapped to a UV.
+    //"$EmissiveBlendBaseTexture" 	"path/to/vtf"	            // Texture used for the self-illumination. Can be colored or grayscale. Does not adopt $basetexture's color.
+                                                                // You can think of it as the overall mask for the effect
+
+    //"$EmissiveBlendFlowTexture" 	"path/to/vtf" 		        // Flowmap used for $emissiveblendtexture
+    //"$EmissiveBlendTint" 			"[ 1 1 1 ]"		            // RGB glow intensity. Leave at 1 1 1. This can be used to change how strong each color should glow
+                                                                // So instead of using a darker red color, you may use .5 1 1] to have red glow half as strong
+
+    //"$EmissiveBlendScrollVector" 	"[ 0 0 ]" 		            // Makes the EmmissiveBlend flow in either direction if a proper EmissiveBlendFlowTexture were set
+                                                                // 0 0 means static, no flow
+
+// Paint
+
+	"$blendtintbybasealpha"         "1"                         // Enables tinting material using $basetexture alpha channel as a mask to determine tint intensity
+	//"$blendtintcoloroverbase"     "1.00"                      // 0-1 Determines how much blended by tinting vs. replacing the color
+	"$colortint_base"               "{ 255 255 255 }"           // Put the RGB value of whats being colored when no paint is present (AKA the default color when no paint is applied)
+	"$color2"				        "{ 255 255 255 }"	        // Same as colortint_base
+	"$colortint_tmp"                "[0 0 0]"                   // Leave as 0 0 0 for Proxies
+
+// Proxies, the order of proxies is important
+
+	"Proxies"
+	{
+    "ItemTintColor"
+    {
+    "resultVar"                     "$colortint_tmp"
+    }
+    "SelectFirstIfNonZero"
+    {
+    "srcVar1"                       "$colortint_tmp"
+    "srcVar2"                       "$colortint_base"
+    "resultVar"                     "$color2"
+    }
+}
+}

@@ -1,0 +1,93 @@
+"VertexLitGeneric"
+{
+
+    "$basetexture"                  "models/bb/soders/unnamed/unnamed"
+	//"$bumpmap"                    "models/bb/soders/unnamed/unnamed"
+
+    //"$lightwarptexture"           "models/lightwarps/hand_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/jarate_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/mirv_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/rainblower_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/robot_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/softened_weapon_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/toon1"
+    //"$lightwarptexture"           "models/lightwarps/toon2"
+    //"$lightwarptexture"           "models/lightwarps/toon3"
+    //"$lightwarptexture"           "models/lightwarps/toon4"
+    //"$lightwarptexture"           "models/lightwarps/weapon_lightwarp"
+    //"$lightwarptexture"           "models/lightwarps/xms_lightwarp"
+    //"$lightwarptexture"           "models/player/demo/hwn_demo_lightwarp"
+    //"$lightwarptexture"           "models/player/items/mvm_loot/fob_lightwarp"
+    //"$lightwarptexture"           "models/player/pyro/pyro_lightwarp"
+    //"$lightwarptexture"           "models/player/shared/ice_player_lightwarp"
+    //"$lightwarptexture"           "models/player/shared/shared_normal"
+    //"$lightwarptexture"           "models/props_halloween/halloween_demoeye_lightwarp"
+    //"$lightwarptexture"           "weapons/c_items/c_ambassador_lightwarp"
+
+    //"$detail"                     "models/bb/soders/unnamed/unnamed"
+	//"$detailscale"                "1.00"
+    //"$detailtexturetransform"     "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	//"$detailblendfactor"          "1.00"
+	//"$detailblendmode"            "2"
+
+    //"$surfaceprop"                "metal"
+    //"$nodecal"                    "1"
+	//"$nocull"                     "1"
+
+    //"$phong"                      "1"
+	//"$phongexponenttexture"	    "models/bb/soders/unnamed/unnamed"
+	//"$phongexponent"              "25"
+	//"$phongexponentfactor"	    "1.00"
+	//"$phongboost"                 "0.10"
+	//"$phongfresnelranges"         "[.25 .5 1]"
+    //"$phongtint"                  "[0 0 0]"
+	//"$basemapalphaphongmask"	    "1"
+    //"$phongalbedotint"            "1"
+    //"$phongdisablehalflambert"    "1"
+    //"$bumpmapalphaphongmask"      "1"
+
+    //"$rimlight"                   "1"
+	//"$rimlightexponent"           "4"
+	//"$rimlightboost"              "2.00"
+	//"$rimmask"				    "1"
+	//"$halflambert"			    "1"
+
+	//"$envmap"						"env_cubemap"
+	//"$envmaptint"					"[1 1 1]"
+    //"$envmapcontrast"             "1.00"
+	//"$envmapsaturation"           "[.25 .5 1]"
+    //"$envmaplightscaleminmax"     "[0 1]"
+    //"$envmapmask"                 "models/bb/soders/unnamed/unnamed"
+    //"$envmapmaskscale"            "1.00"
+    //"$envmapmasktransform"        "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	//"$basealphaenvmapmask"		"1"
+	//"$normalmapalphaenvmapmask"	"1"
+
+    //"$translucent"                "1"
+	//"$alphatest"                  "1"
+	//"$allowalphatocoverage"       "1"
+
+    //"$selfillum"	                "1"
+	//"$selfillumtint"	            "[1 1 1]"
+	//"$selfillummask"	            "models/bb/soders/unnamed/unnamed"
+
+    "$blendtintbybasealpha"         "1"
+	//"$blendtintcoloroverbase"     "1.00"
+	"$colortint_base"               "{ 255 255 255 }"
+	"$color2"				        "{ 255 255 255 }"
+	"$colortint_tmp"                "[0 0 0]"
+
+	"Proxies"
+	{
+    "ItemTintColor"
+    {
+    "resultVar"                     "$colortint_tmp"
+    }
+    "SelectFirstIfNonZero"
+    {
+    "srcVar1"                       "$colortint_tmp"
+    "srcVar2"                       "$colortint_base"
+    "resultVar"                     "$color2"
+    }
+}
+}

@@ -20,5 +20,6 @@
 //	"$color2"	"{44 43 43}"		// Rich Black
 //	"$color2"	"{88 141 195}"		// Sea Blue
 //	"$color2"	"{232 196 219}"		// Sweet Pink
+//	"$color2"	"{0 148 159}"		// Teal Touch
 //	"$color2"	"{181 50 47}"		// Volcanic Red
 ```

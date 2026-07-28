@@ -1,13 +1,16 @@
 ### Best maps to test on:
-- surf_fruits
-- surf_lux
+- surf_fruits (bad cubemaps)
+- surf_lux (changes item colors)
 - surf_me
 - gm_construct (basic hdr)
 - surf_nyx (bright hdr)
+- surf_fortum (bright hdr)
 - surf_dragon (medium hdr)
 - surf_summer (smooth hdr)
 - surf_kepler (balanced hdr)
-- surf_ace (ldr)
-- surf_whiteout (ldr)
+- surf_ace (ldr) (great for final pictures)
+- surf_whiteout_v1_1 (ldr) (often changes from dark & bright)
 - surf_cyberwave (ldr)
 - surf_anzchamps (ldr) (z-fighting increases)
+- surf_calycate2 (z-fighting increases)
+- surf_deathstar (great for final pictures)
