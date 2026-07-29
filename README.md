@@ -5,7 +5,11 @@
 - ### [BB Tier List Maker](https://tiermaker.com/create/easy-surf-maps-17474064-3)
 ________________________________________________
 ## Resources:
-- ### [Dark Theme](https://github.com/Sod-ers/GMod-Resources/releases) - [Preview](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/Dark%20Theme%20Previews.md)
+- ### [Forked Dark Theme](https://github.com/Sod-ers/Source-Github-Theme-Plus-Plus)
+- ### [Linux Dark Theme](https://github.com/Sod-ers/gmod-linux-theme)
+- ### [Minimal Menu Theme](https://github.com/Sod-ers/gmod-minimal-menu-theme)
+- ### [Derma Dark Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=3773733125)
+- ### [Dark Theme (all combined)](https://github.com/Sod-ers/GMod-Resources/releases) - [Preview](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/Dark%20Theme%20Previews.md)
 - ### [Surf Backgrounds](https://drive.google.com/drive/folders/1-xucNF6qe4gJGGJodlN9l7CLn6LIHHK5?usp=sharing) - place in ../garrysmod/backgrounds/
 ________________________________________________
 ## Tutorials/Notes:
@@ -30,9 +34,8 @@ ________________________________________________
 ________________________________________________
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
-- ### [Animated GMod logo by Derpmii](https://www.steamgriddb.com/logo/44661)
+- ### [Animated GMod logo](https://www.steamgriddb.com/logo/44661) by Derpmii
 - ### JWalkerMailly's [Source - Github Theme](https://github.com/JWalkerMailly/Source-Github-Theme) & [Derma - Github Theme](https://github.com/JWalkerMailly/Derma-Github-Theme) modified by me
 - ### Legacy Dark Theme: INsanes CSS HUD V6 modified by me
 - ### [SFMono-Regular](https://github.com/supercomputra/SF-Mono-Font) & [SF-Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) fonts by Apple
 - ### [PTMono-Regular](https://www.paratype.com/fonts/pt/pt-mono/regular) font by Paratype
-- ### [Animated Gmod logo](https://www.steamgriddb.com/logo/44661) by Derpmii
