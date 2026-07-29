@@ -1,7 +1,7 @@
 **Windows:**  
 ![](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/windows-dark-theme-preview.png "Windows")
 **Linux:**  
-![](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/linux-dark-theme-preview.png "Linux")
+![](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/linux-dark-theme-preview.jpg "Linux")
 **Sandbox:**  
 ![](https://github.com/Sod-ers/GMod-Resources/blob/main/Dark-Theme/previews/sandbox-dark-theme-preview.jpg "Sandbox")
 **pac3:**  

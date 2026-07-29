@@ -10,7 +10,7 @@ ________________________________________________
 ________________________________________________
 ## Tutorials/Notes:
 - ### [Source Content Creation](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Source%20Content%20Creation.md)
-- ### [Configs](https://github.com/Sod-ers/GMod-Resources/tree/main/CFG)- [Windows FPS Optimization Config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/betterfps-WINDOWS-ONLY.cfg)
+- ### [Configs](https://github.com/Sod-ers/GMod-Resources/tree/main/CFG) - [Windows FPS Optimization Config](https://github.com/Sod-ers/GMod-Resources/blob/main/CFG/betterfps-WINDOWS-ONLY.cfg)
 - ### [Steam Launch Options](https://github.com/Sod-ers/GMod-Resources/tree/main/Steam-Launch-Options)
 - ### [Toggle Duck](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Toggle%20Duck.md)
 - ### [Console Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Console%20Commands.md)
@@ -35,3 +35,4 @@ ________________________________________________
 - ### Legacy Dark Theme: INsanes CSS HUD V6 modified by me
 - ### [SFMono-Regular](https://github.com/supercomputra/SF-Mono-Font) & [SF-Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) fonts by Apple
 - ### [PTMono-Regular](https://www.paratype.com/fonts/pt/pt-mono/regular) font by Paratype
+- ### [Animated Gmod logo](https://www.steamgriddb.com/logo/44661) by Derpmii

@@ -30,7 +30,7 @@ Essential Blender addons:
 - [Source Engine Collision Tools](https://extensions.blender.org/add-ons/sourceenginecollisiontools/)  
 ### Programs:  
 Essentials:  
-- [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/) with [Darker++ theme](https://github.com/kenned-candido/hammerfy)  
+- [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/) + [Darker++ theme](https://github.com/kenned-candido/hammerfy)  
 - [Blender](https://www.blender.org/) - [tutorials, addons, shortcuts, settings](https://github.com/Sod-ers/Programs/tree/main/Blender)  
 - [Crowbar](https://steamcommunity.com/groups/CrowbarTool)  
 - [MareTF](https://maretf.me/)  
