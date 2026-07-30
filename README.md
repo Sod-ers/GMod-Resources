@@ -28,6 +28,7 @@ ________________________________________________
 - ### [Hide HUD](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Hide%20HUD.md)
 - ### [BB Tracker](https://github.com/Sod-ers/BB-Tracker) - Scripts to detect map changes at BB Game Servers
 - ### [BB Unusual Effects](https://github.com/Sod-ers/GMod-Resources/blob/main/JPG/BB-Effects.png)
+- ### [BB Chatbox Enhancements](https://steamcommunity.com/sharedfiles/filedetails/?id=3774096224)
 - ### [BB Maps (.bsp)](https://drive.google.com/drive/folders/1YmX4WmWzpnxPBlwhT1N2Yj8wBGX1MLf5?usp=sharing)
 - ### [BB Cosmetic Catalogue](https://drive.google.com/file/d/1Wf3UQVVo6iEwZ1IXttvFPny1y1eduaLL/view?usp=share_link) - OUTDATED (12-19-2022)
 - ### [Stellar Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Stellar%20Commands.md)

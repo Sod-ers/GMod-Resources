@@ -43,7 +43,7 @@ Not essential but useful:
 - [Inkscape](https://inkscape.org/) - [tutorials](https://github.com/Sod-ers/Programs/blob/main/Inkscape.md)  
   
 More programs:  
-[Essential programs](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Bookmarks.md)  
+[My bookmarks](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Bookmarks.md)  
 [Wiki list](https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools)  
 [Awesome list](https://github.com/Sod-ers/Programs/blob/main/README.md)  
 ### BB:  
