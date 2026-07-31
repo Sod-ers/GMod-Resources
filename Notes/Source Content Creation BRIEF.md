@@ -1,12 +1,11 @@
-### Essentials only:
-
-### Mapping:
-Hammer tutorials:
+### Essentials only:  
+[Valve dev wiki](https://developer.valvesoftware.com/wiki/)  
+### Mapping:  
+Hammer tutorials:  
 [TopHATTwaffle;](https://youtube.com/playlist?list=PL-454Fe3dQH1L38FnKkz_O1CqYx6sKaXk)  
 [3kliksphilip;](https://youtube.com/playlist?list=PLfwtcDG7LpxF7-uH_P9La76dgCMC_lfk3)  
 ### Modeling:  
 Tutorials:  
-[Valve dev wiki](https://developer.valvesoftware.com/wiki/)  
 [Blender tutorials](https://github.com/Sod-ers/Programs/blob/main/Blender/Tutorials.md#source-engine)  
   
 Essential Blender addons:  

@@ -17,6 +17,7 @@
 | [List of Source modding tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3145444528)                                    |
 | [List of third party tools](https://developer.valvesoftware.com/wiki/Third_Party_Tools)                                              |
 | [List of third party tools 2](https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools)                                   |
+| [Guides, Tutorials, Articles, Reference, Tools](https://steamcommunity.com/groups/CrowbarTool/discussions/0/626329186804636707/)     |
 | [Disable VIS allows leaking map to compile](https://www.reddit.com/r/hammer/comments/1cdwcav/command_failed_with_return_code_0x1/)   |
 | [Man vs. Engine optimization guide](https://filecache41.gamebanana.com/bitpit/man_vs_engine.pdf)                                     |
 | [Optimization in Source: a practical demonstration](https://nodraw.net/2009/12/optimization-in-source-a-practical-demonstration/)    |
